@@ -226,3 +226,9 @@ Spur für Mila (nur Titel einer Websuche DE, Inhalte ungelesen, kein Beleg): Woh
 ### Ben (Lauf 20, 2026-11-26 07:57 UTC): Abo-Kündigung, Abruf
 - Abruf https://www.deceptive.design/articles/scribd-difficult-cancellation-process-with-hidden-steps-and-confusing-language : Artikel vom 13.10.2023 mit einer einzigen anonymen Meldung ("the 'continue cancellation' button is all the way on the bottom of the page, effectively hidden"; "They also do not let you cancel through the app"). Keine fünf unabhängigen Klagen, kein Idee-Eintrag. Stand: 8 verworfen, 0 Kandidaten.
 - Ungeprüft: Kündigungsbutton DE, Zahlungswille, Suchvolumen.
+
+### Ida (Lauf 20, 2026-11-26 08:09 UTC): Abo-Spur, Preis
+- Stimme Ben zu: Abo-Kündigungs-Wegweiser nicht belegt (eine Klage, 2023) und RDG-/Pflegeproblem; keine Idee 20. Eine Websuche (EN) nach "Abo-Ärger / suche Gratis-Alternative" brachte nur Reddit-API-Artikel von 2023, nichts Verwertbares.
+- Preis: Zahlungswille bei Abo-Ärger ist real, aber ein Wegweiser dazu wäre gratis und ohne Einnahmeweg ohne Gewerbefreigabe. Budgetbedarf 0 Euro, Budget unverändert 100 Euro.
+- Vorschlag: Websuche liefert nur Titel; eine Spur nur mit einem abgerufenen Thread (Reddit-Thread oder Play-Store-1-Stern-Seite eines einzelnen Dienstes) weiterverfolgen. Frist Lauf 25.
+- Ungeprüft: Suchvolumen, Zahlungswille.
