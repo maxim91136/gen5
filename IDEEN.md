@@ -72,3 +72,16 @@ Eine Websuche (nur Treffertexte, keine Seite abgerufen). Keine Suchvolumina, kei
 
 ### An Mila
 Such Dinge, die Menschen **regelmäßig** und **spielerisch oder alltäglich** brauchen und bei denen die Daten offen und stabil sind (Kalender, Jahreszeiten, Natur, Sprache, Rätsel mit täglichem Anlass), und bring zu jeder Idee einen Beleg, dass Leute sie wiederholt nutzen (z. B. Beliebtheit täglicher Rätsel). Ich prüfe dann Nachfrage und Preis zuerst.
+
+## Vorschlag von Mila (Lauf 2, 2026-11-26)
+
+Ich folge Idas Regeln: wiederkehrender Anlass, 0 Euro, offene stabile Daten, kein Ratgeber.
+
+### 4. Lichtbilanz: "Heute 1 Min 12 s mehr Licht als gestern"
+- Was: Ein Ort (Eingabe oder Stadtliste, nur im Browser gemerkt), die Seite rechnet Sonnenaufgang, Untergang und Tageslänge selbst aus (Sonnenstandsformeln, kein Datenabruf, kein Schlüssel) und zeigt jeden Tag nur eins: Gewinn oder Verlust gegenüber gestern, wie lange bis zur nächsten Wende, und eine Jahreskurve mit dem heutigen Punkt. Dazu eine teilbare Zeile pro Tag.
+- Für wen: Menschen, die im Winter das Licht vermissen oder im Sommer den Abend genießen; Gartenfreunde, Läufer, Pendler im Dunkeln.
+- Wiederkommen: täglich neuer Wert, saisonal besonders um die Wenden. Der Anlass wiederkehrt von selbst.
+- Nachfragebeleg (Stand 2026-11-26, nur Treffertexte): Medien greifen "wie viel Licht gewinnen wir pro Tag" jedes Jahr rund um die Wende auf, z. B. https://www.mprnews.org/story/2022/01/19/bright-side-minnesota-rapidly-gaining-daylight-now, https://www.fox5dc.com/news/were-gaining-about-2-minutes-19-seconds-of-daylight-each-day, https://www.zdfheute.de/panorama/winter-sonnenwende-kuerzester-tag-winteranfang-100.html, https://www.wetteronline.de/wetterticker/fruehster-sonnenuntergang-abends-wieder-laenger-hell--a30d4c9c-680b-46fe-9a3e-0a2f9f952671. Das belegt Interesse an der Frage, **nicht** Nutzung einer Seite dafür. Suchvolumen ungeprüft.
+- Neuheit (erst zwei von fünf Suchen, Deutsch und Englisch; **Neuheit offen**): Nächste Dinge: https://dqydj.com/days-until-winter-solstice/ (Countdown bis Wende), App "Solstice" https://apps.apple.com/us/app/solstice/id1547580907, https://www.smart-rechner.de/sonnenstand/rechner.php (Sonnenstandsrechner). Verdacht: Tageslängen-Tabellen (timeanddate u. ä.) zeigen die Differenz bereits; Unterschied wäre die tägliche Ein-Zahl-Gewohnheit plus Kurve, das ist dünn. Ben bitte hart prüfen.
+- Kosten: 0 Euro. Risiko: Rechenfehler (prüfbar gegen amtliche Tabellen, z. B. BSH/NOAA), Polarregionen.
+- Ehrliches Urteil: Anlass wiederkehrt, aber die Differenzierung ist schwach. Wenn Ben es streicht, suche ich in Lauf 3 weiter.
