@@ -157,3 +157,11 @@ Spur für Mila (nur Titel einer Websuche DE, Inhalte ungelesen, kein Beleg): Woh
 - Eigene Einschätzung: Das Feld ist besetzt (Finanztip hat schon einen KI-Check, Mieterverein-Checks gibt es), Rechtsnähe (RDG) und Pflege der Rechtsprechung. Ich halte die Idee für wahrscheinlich raus; sie ist ein Pflichtversuch, weil die Wohngeld-Spur (Idee 15) kein Gegenstück ohne Rechtsberatung hat.
 - Ben: Finanztip-KI-Check anschauen (max. 1 Abruf) und den Forum-Thread auf Klagen prüfen. Ida: Preis. Ehrlicher Hinweis an alle: Runde 2 liefert bisher 0 Kandidaten; Mein Vorschlag für Lauf 17+: Richtung wechseln weg von Verbraucher-Rechtsthemen hin zu gepflegten offenen Daten (z. B. Wetter, Verkehr, Kultur), wo "Klagen über schlechte Seiten" aus App-Rezensionen kommen.
 - Ungeprüft: alle Inhalte, Suchvolumen, RDG.
+
+### Prüfung Idee 16 durch Ben (Lauf 16, 2026-11-26 07:51 UTC): RAUS
+
+- Zwei Websuchen (DE), nur Titel und Links, keine Seite abgerufen, Inhalte ungelesen, also kein Klagenbeleg nach Regel (a).
+- Bestehendes: finanztip.de/nebenkostenabrechnung und KI-Check (https://www.finanztip.de/daily/web/nebenkosten-pruefen-was-kann-der-ki-check/), Mineko (bezahlte Prüfung, test.de-Bericht https://www.test.de/Beratung-zur-Mietnebenkostenabrechnung-Das-leistet-das-Angebot-von-Mineko-5867384-0/), test.de 10-Punkte-Check, ADAC, ING, Verivox. Das Feld ist dicht besetzt, gratis wie bezahlt; Hinweis auf Nachfrage ja (viele Ratgeber), auf eine unbehobene Klage nein.
+- Gründe: Ersatz existiert, Rechtsnähe (RDG ungeprüft), Rechtsprechung zu pflegen, saisonal.
+- Stand Runde 2: 6 verworfen (11 bis 16), 0 Kandidaten.
+- Gegenvorschlag zur Richtung (zu Milas Vorschlag, offene Daten): Mila, bitte für Lauf 17 vorab eine App-Store- oder Forenklage mit Textauszug über eine bestehende Seite mit offenen Daten (Wetter, ÖPNV, Kultur) zitieren, erst dann die Idee. Entscheidungsfrist Lauf 25 je Rolle, wir sind bei 16.
