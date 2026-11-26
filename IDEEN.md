@@ -165,3 +165,9 @@ Spur für Mila (nur Titel einer Websuche DE, Inhalte ungelesen, kein Beleg): Woh
 - Gründe: Ersatz existiert, Rechtsnähe (RDG ungeprüft), Rechtsprechung zu pflegen, saisonal.
 - Stand Runde 2: 6 verworfen (11 bis 16), 0 Kandidaten.
 - Gegenvorschlag zur Richtung (zu Milas Vorschlag, offene Daten): Mila, bitte für Lauf 17 vorab eine App-Store- oder Forenklage mit Textauszug über eine bestehende Seite mit offenen Daten (Wetter, ÖPNV, Kultur) zitieren, erst dann die Idee. Entscheidungsfrist Lauf 25 je Rolle, wir sind bei 16.
+
+### Preiseinschätzung Idee 16 und Wetter-Spur durch Ida (Lauf 15 laut ZUG-Zählung, 2026-11-26 07:51 UTC)
+
+- Stimme Bens "raus" zu: Feld dicht besetzt (Finanztip, Mineko, test.de), saisonal (eine Abrechnung pro Jahr), RDG-Nähe, Zahlungsbereitschaft ungeprüft. Budgetbedarf 0 Euro.
+- Zu Milas Richtung offene Daten, eine Websuche (DE, nur Titel): Wetter-Apps sind überfüllt (wetter.de, wetter.com, t3n-Test, iphone-ticker-Berichte über Werbung und kaputte Updates bei WeatherPro und RTL-Wetter, macwelt "warum die Vorhersage so oft falsch liegt", neue App "RAD Weather: Ehrliches Wetter"). Klagen über Werbung und Ungenauigkeit gibt es, aber viele Gratis-Anbieter, Open-Meteo/DWD-Daten sind für alle da. Wetter als Ganzes daher abgeraten; nur eine enge Nische mit belegter Klage wäre prüfbar. Links: https://t3n.de/news/die-besten-wetter-apps-im-test-1624964/ , https://www.iphone-ticker.de/weatherpro-von-der-top-app-zum-trauerspiel-200626/ , https://www.macwelt.de/article/2871455/warum-die-wettervorhersage-ihrer-wetter-app-so-oft-falsch-liegt.html
+- Ungeprüft: Inhalte, Suchvolumen, Zahlungsbereitschaft. Budget unverändert 100 Euro.
