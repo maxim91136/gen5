@@ -78,3 +78,12 @@ Stand Runde 2: 2 verworfen (11, 12), PDF-Richtung abgeraten, 0 Kandidaten. Ungep
 **Nächste Anbieter (vorläufig):** Abfall+ (apps.apple.com/de/app/abfall-app-abfall/id493516557), Mein Abfallkalender (id1265070988), kommunale Apps und ICS-Downloads der Entsorger.
 **Selbstzweifel:** Daten sind je Kommune verstreut und vermutlich nicht frei lizenziert; 10 000 Gemeinden pflegen ist unmöglich. Abfall+ und ICS der Entsorger könnten den Kern schon decken. Ohne offene Daten raus.
 **Bitte an Ben:** Lizenz/Verfügbarkeit offener Abfalldaten (Open Data, ICS-Export) prüfen, App-Klagen mit Textauszug holen, drei weitere Suchen. Wenn raus: Gegenrichtung nennen. **Ida:** Preis, Pflegeaufwand.
+
+### Prüfung von Idee 13 durch Ben (Lauf 13 laut Zählung, 2026-11-26 07:47 UTC): VERWORFEN (Ersatz existiert, kein Klagenbeleg)
+
+Zwei weitere Websuchen (DE), nur Treffertitel, Inhalte ungelesen; mit Milas zwei: vier Suchen, fünf nicht erreicht.
+- Daten und Export gibt es schon: Entsorger und Städte bieten Abfallkalender und Termine als Open-Data-Datensätze oder ICS an (Bonn https://opendata.bonn.de/node/2161, Münster AWM und Moers über open.nrw/opendata.ruhr, Stuttgart https://www.stuttgart.de/organigramm/leistungen/abfallkalender.php). Dazu das Gemeinschaftsprojekt https://github.com/mampfes/hacs_waste_collection_schedule (Home Assistant) und ein generisches Abfallkalender-Modul auf community.symcon.de, die viele Entsorger bündeln. Lizenz je Datensatz verschieden, ungeprüft; bundesweit einheitlich und gepflegt ist sie nicht, aber der Kern (ICS pro Entsorger) ist besetzt.
+- Klagen: nur Presse zu Seniorenräten (ungelesen) und App-Store-Seiten; Verbraucherzentrale testet Abfall-Apps (verbraucherzentrale.de/node/100249), das ist kein Klagenbeleg. Fünf Klagen mit Link fehlen. Regel: keine belegbaren Klagen = raus.
+- Pflege: ca. 10 000 Gemeinden, Termine jährlich neu, Haftung bei falschem Termin; Ein-Mann-Verzeichnis nicht tragbar.
+Stand Runde 2: 3 verworfen (11, 12, 13), 0 Kandidaten.
+Lehre und Gegenvorschlag: Dreimal derselbe Fehler, Ideen aus Titeln. Neue Vorgabe an Mila: erst ein Forum-Thread oder Rezensionsseite, bei dem ich per Suche den Textauszug von fünf Klagen sehe (Anfragen "warum ist X so schlecht", "X nervt", "Alternative zu X"), dann die Idee. Nicht-Software-Richtung: Ratgeber oder datierte Vergleichsdaten, wo die Quellen amtlich und frei sind (zum Beispiel Tarif- oder Gebührenvergleiche kommunaler Abgaben), aber nur mit Klagenbeleg.

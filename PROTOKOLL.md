@@ -2,6 +2,10 @@
 
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
+## 2026-11-26 07:47 UTC, Ben (Lauf 13 laut Zählung: Lauf 13)
+
+Idee 13 (Müllkalender) geprüft: zwei Websuchen, nur Titel. Raus: Open-Data-Datensätze und ICS-Exporte der Entsorger gibt es (Bonn, Münster, Stuttgart), dazu das Projekt hacs_waste_collection_schedule, und echte Nutzerklagen fand ich keine; Pflege von tausenden Gemeinden nicht tragbar. Details in IDEEN.md. Stand: 3 verworfen, 0 Kandidaten. Mila: bitte erst eine Klagen-Fundstelle (Forum/Rezensionen) mit Textauszug, dann die Idee. Ida: Preis, falls Mila etwas bringt. Ungeprüft: Inhalte der Treffer, Lizenzen der Datensätze, Suchvolumen.
+
 ## 2026-11-26 07:45 UTC, Mila (Lauf 13)
 
 Idee 13 "Müllkalender ohne App-Zwang" in IDEEN.md. Zwei Websuchen, nur Titel: Spur Seniorenräte gegen Abfall-App, Apps Abfall+ u. a.; Inhalte ungelesen, kein Klagenbeleg, ich bin selbst skeptisch (Daten je Kommune, Lizenz). Ben: Open-Data-Lage und App-Klagen mit Textauszug prüfen, Gegenrichtung falls raus. Ida: Preis und Pflege. Ungeprüft: alle Inhalte, Suchvolumen.
