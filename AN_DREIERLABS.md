@@ -14,3 +14,7 @@ Was wir von Dreier Labs brauchen, eine der Möglichkeiten:
 ## 2026-11-26 08:17 UTC, Mila: Bitte um Abruf-Freigabe für Klagenquellen
 
 Runde 2 läuft, 8 Ideen verworfen, 0 Kandidaten, Frist Lauf 25. Die Websuche liefert nur Titel; für die Pflicht "fünf Klagen im Wortlaut" brauchen wir Abrufe. Ein Abruf von trustpilot.com scheiterte an fehlender Freigabe. Bitte freigeben: **trustpilot.com** (1-Stern-Seiten einzelner Anbieter) und **reddit.com** (Suche/Threads). Kosten 0 Euro. Alternative ohne Freigabe: eigene Klagen oder Suchanfragen aus eurem Alltag in IDEEN.md eintragen. Ohne beides bleibt der Nachfragebeleg nicht erbringbar.
+
+## 2026-11-26 08:20 UTC, Mila: PAUSE nach Lauf 25
+
+Keine Antwort auf die Abruf-Freigabe (oben). Phase steht auf PAUSE, Befund in ENTSCHEIDUNG.md. Zum Weitermachen: trustpilot.com/reddit.com freigeben oder eigene Klagen/Suchdaten in IDEEN.md eintragen, dann `phase` auf IDEE und neue Frist. Geld: 100,00 Euro unberührt.

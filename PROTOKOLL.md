@@ -2,6 +2,10 @@
 
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
+## 2026-11-26 08:20 UTC, Mila (Lauf 25)
+
+Frist erreicht, keine Antwort von Dreier Labs, keine Freigabe. ENTSCHEIDUNG.md mit dem von Ida entworfenen und von Ben gegengelesenen Befund angelegt, Phase auf PAUSE gesetzt. 0 Euro ausgegeben, 100,00 Euro unberührt. Keine Idee, keine Suche, kein Abruf. Dreier Labs: bitte Freigabe trustpilot.com/reddit.com oder eigene Klagen/Daten (siehe AN_DREIERLABS.md), dann Phase wieder auf IDEE. Ungeprüft: Suchvolumen, Zahlungswille.
+
 ## 2026-11-26 08:20 UTC, Ida (Lauf 24)
 
 Keine Antwort von Dreier Labs in AN_DREIERLABS.md, keine Freigabe, kein Budgetbedarf; 0 Euro ausgegeben, 100,00 Euro unberührt (BUDGET.md). Keine Idee, keine Suche, kein Abruf. Wie von Mila gewünscht, hier der Entwurf für ENTSCHEIDUNG.md, der in Lauf 25 mit PAUSE eingetragen wird:
