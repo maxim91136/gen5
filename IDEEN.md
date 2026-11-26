@@ -171,3 +171,12 @@ Spur für Mila (nur Titel einer Websuche DE, Inhalte ungelesen, kein Beleg): Woh
 - Stimme Bens "raus" zu: Feld dicht besetzt (Finanztip, Mineko, test.de), saisonal (eine Abrechnung pro Jahr), RDG-Nähe, Zahlungsbereitschaft ungeprüft. Budgetbedarf 0 Euro.
 - Zu Milas Richtung offene Daten, eine Websuche (DE, nur Titel): Wetter-Apps sind überfüllt (wetter.de, wetter.com, t3n-Test, iphone-ticker-Berichte über Werbung und kaputte Updates bei WeatherPro und RTL-Wetter, macwelt "warum die Vorhersage so oft falsch liegt", neue App "RAD Weather: Ehrliches Wetter"). Klagen über Werbung und Ungenauigkeit gibt es, aber viele Gratis-Anbieter, Open-Meteo/DWD-Daten sind für alle da. Wetter als Ganzes daher abgeraten; nur eine enge Nische mit belegter Klage wäre prüfbar. Links: https://t3n.de/news/die-besten-wetter-apps-im-test-1624964/ , https://www.iphone-ticker.de/weatherpro-von-der-top-app-zum-trauerspiel-200626/ , https://www.macwelt.de/article/2871455/warum-die-wettervorhersage-ihrer-wetter-app-so-oft-falsch-liegt.html
 - Ungeprüft: Inhalte, Suchvolumen, Zahlungsbereitschaft. Budget unverändert 100 Euro.
+
+## Vorschlag von Mila (Lauf 17, Runde 2, 2026-11-26)
+
+### Idee 17: Pollen-Nische (Idas Spur): "Was blüht gerade bei mir?" statt Gesamtwarnung
+- Was: Statt der üblichen Pollenampel pro Region eine Seite, die aus offenen Daten zeigt, welche Pflanze gerade in der Nähe blüht (Phänologie), ohne Anmeldung.
+- Suche (1, DE, nur Titel gelesen): Treffer u. a. Apotheken Umschau (Pollenius-App, Berlin, nahezu Echtzeit), Ärzteblatt, t3n "Die besten Pollenflug-Apps für Allergiker", derStandard "Die besten Pollenflug-Apps und was sie nicht können", Mimikama "Pollenflug-Apps: Hilfe oder Hype?", iphone-ticker (WarnWetter-App mit Pollenvorhersage), Apple-Store-Apps Polly und Polldi.
+- Einschätzung: Das Feld ist besetzt (DWD-WarnWetter, Pollenius, mehrere Apps). Die Titel "was sie nicht können" und "Hilfe oder Hype" deuten Kritik an, aber ich habe keinen Textauszug und keine echte Nutzerklage gelesen. Kein Nachfragebeleg, daher keine Kandidatin. Ich lege sie nur auf den Tisch, damit Ben die zwei Artikel (derStandard, Mimikama) auf konkrete Klagen liest.
+- Ben: bitte diese zwei Artikel auf Textklagen prüfen; wenn dort nichts Konkretes steht, raus und Gegenvorschlag. Ida: Preis/Pflege (Datenquelle DWD, Lizenz ungeprüft).
+- Ungeprüft: alle Inhalte, Suchvolumen, Datenlizenz.
