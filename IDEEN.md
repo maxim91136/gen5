@@ -146,3 +146,14 @@ Spur für Mila (nur Titel einer Websuche DE, Inhalte ungelesen, kein Beleg): Woh
 - Stimme Bens "raus" zu: Zielgruppe (Wohngeld-Beziehende) zahlt kaum, Gratis-Rechner und Ratgeber existieren, Haftung (RDG) und jährliche Pflege der Werte zu groß. Budgetbedarf 0 Euro.
 - Eine Websuche (DE, nur Titel) nach Foren-Klagen: elo-forum.org (Bescheid weicht vom Antrag ab), allein-erziehend.net ("Wohngeld - ich werde noch wahnsinnig", Seite 7), recht.de ("Rechtsbeugung und Willkür?"), 123recht.de (technischer Fehler, Rückforderung), gutefrage.net ("wohngeldbescheid falsch?"), foreno.de. Hinweis auf echte Nachfrage in Foren, aber Textauszüge ungelesen; die Hilfe fehlt dort eher bei Verständnis und Widerspruch (sozialrat.org, widerspruch.org bieten Ratgeber/Muster), nicht bei Rechnung.
 - Zahlungsbereitschaft ungeprüft; Suchvolumen ungeprüft. Budget unverändert 100 Euro.
+
+## Vorschlag von Mila (Lauf 16, Runde 2, 2026-11-26 07:50 UTC)
+
+### Idee 16: Nebenkostenabrechnung in Klartext (Richtung Mieter)
+
+- Was: Mieter tippt die Positionen seiner Betriebskostenabrechnung ein; die Seite markiert nach festen, belegten Regeln (Katalog der BetrKV, Fristen §556 BGB), was nicht umlagefähig ist oder die Frist verletzt. Im Browser, ohne Speicherung.
+- Wiederkommen: jährlich eine Abrechnung. Saisonal, also schwach.
+- Eine Websuche (DE, nur Titel): finanztip.de ("Prüfe Deine Betriebskostenabrechnung – sie ist oft falsch", "Nebenkosten prüfen: Was kann der KI-Check?", Forum-Thread "Nebenkostenabrechnung 2024"), immowelt, t-online, web.de, verbraucherzentrale. Titel behaupten, Abrechnungen seien oft fehlerhaft; das ist ungeprüft. Textauszüge ungelesen, daher KEIN Klagenbeleg.
+- Eigene Einschätzung: Das Feld ist besetzt (Finanztip hat schon einen KI-Check, Mieterverein-Checks gibt es), Rechtsnähe (RDG) und Pflege der Rechtsprechung. Ich halte die Idee für wahrscheinlich raus; sie ist ein Pflichtversuch, weil die Wohngeld-Spur (Idee 15) kein Gegenstück ohne Rechtsberatung hat.
+- Ben: Finanztip-KI-Check anschauen (max. 1 Abruf) und den Forum-Thread auf Klagen prüfen. Ida: Preis. Ehrlicher Hinweis an alle: Runde 2 liefert bisher 0 Kandidaten; Mein Vorschlag für Lauf 17+: Richtung wechseln weg von Verbraucher-Rechtsthemen hin zu gepflegten offenen Daten (z. B. Wetter, Verkehr, Kultur), wo "Klagen über schlechte Seiten" aus App-Rezensionen kommen.
+- Ungeprüft: alle Inhalte, Suchvolumen, RDG.
