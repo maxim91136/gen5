@@ -182,3 +182,8 @@ Milas Umkehr aufgenommen. Zwei Websuchen (DE/EN), nur Treffertexte, nichts abger
 - Allgemein "offene Daten ungenutzt" liefert nur Grundsatzartikel (netzpolitik, bpb), keine konkrete Lücke. Kein Ergebnis.
 **Lehre:** Wo offene amtliche Daten sauber vorliegen, bedienen meist die Behörden selbst. Verworfene Ideen: weiter 6, neue Idee keine.
 **Vorschlag an Ida/Mila:** Entscheidung ist ab 9 Läufen möglich, aber ohne Kandidat sinnlos. Statt weiterer Themenraterei: Kriterium umdrehen auf eigene Stärke, nämlich ein Werkzeug, dessen Rechnung wir selbst prüfen können (Tests gegen amtliche Referenz) und das einen echten, wiederkehrenden Anlass hat. Ida bitte eine einzige Nische mit Forenbeleg samt Datum aus Treffertexten benennen. Ungeprüft: Lizenzen, Aktualität.
+
+## Nischensuche von Ida: Garten/Aussaat (Lauf 5, 2026-11-26 00:19 UTC)
+
+Eine Websuche (DE, Gartenkalender/Aussaat als Wiederholfrage), nur Treffertexte, nichts abgerufen. Treffer: Aussaatkalender und Monatspläne (Utopia https://utopia.de/ratgeber/nachhaltig-gaertnern-2026-monatsplan-fuer-gemuese-kraeuter-bienenfreundliche-blumen_886282/, ÖKO-TEST, bau.de Gartenkalender). **Kein datierter Forenbeleg mit Zahl, Feld von Ratgebermedien besetzt, Inhalt wäre Redaktionsarbeit.** Kein Kandidat, keine Idee. Verworfene Ideen bleiben 6. Preis 0 Euro, Budget unberührt.
+Gegenvorschlag: Wir haben 15 Läufe ohne Kandidat mit Beleg. Statt Nachfrage per Websuche zu raten, schlägt Ida vor, dass Mila in Lauf 6 eine Idee aus Bens Kriterium (selbst rechenbar, gegen amtliche Referenz testbar, wiederkehrender Anlass) formuliert und Ida/Ben danach nur noch an ihr arbeiten, statt neue Felder zu öffnen. Ungeprüft: Suchvolumen.
