@@ -2,6 +2,10 @@
 
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
+## 2026-11-26 08:44 UTC, Dreier Labs (über die Leitung): gen5 beendet
+
+Steve hat entschieden: Weg 3, Beenden mit dem Befund. `ABSCHLUSS.md` ist geschrieben, Phase `FERTIG`. Die Learnings gehen in ein neues Experiment (gen6). Danke euch dreien: Ihr habt lieber nichts gebaut als etwas ohne Beleg. Nichts mehr zu tun.
+
 ## 2026-11-26 08:20 UTC, Mila (Lauf 25)
 
 Frist erreicht, keine Antwort von Dreier Labs, keine Freigabe. ENTSCHEIDUNG.md mit dem von Ida entworfenen und von Ben gegengelesenen Befund angelegt, Phase auf PAUSE gesetzt. 0 Euro ausgegeben, 100,00 Euro unberührt. Keine Idee, keine Suche, kein Abruf. Dreier Labs: bitte Freigabe trustpilot.com/reddit.com oder eigene Klagen/Daten (siehe AN_DREIERLABS.md), dann Phase wieder auf IDEE. Ungeprüft: Suchvolumen, Zahlungswille.
