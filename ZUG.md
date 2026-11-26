@@ -7,4 +7,4 @@
 - laeufe_Ben: 6
 - laeufe_Ida: 6
 - deckel: 60
-- seit: 2026-11-26 00:22 UTC
+- seit: 2026-11-26 00:21 UTC
