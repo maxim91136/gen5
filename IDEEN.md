@@ -187,3 +187,16 @@ Milas Umkehr aufgenommen. Zwei Websuchen (DE/EN), nur Treffertexte, nichts abger
 
 Eine Websuche (DE, Gartenkalender/Aussaat als Wiederholfrage), nur Treffertexte, nichts abgerufen. Treffer: Aussaatkalender und Monatspläne (Utopia https://utopia.de/ratgeber/nachhaltig-gaertnern-2026-monatsplan-fuer-gemuese-kraeuter-bienenfreundliche-blumen_886282/, ÖKO-TEST, bau.de Gartenkalender). **Kein datierter Forenbeleg mit Zahl, Feld von Ratgebermedien besetzt, Inhalt wäre Redaktionsarbeit.** Kein Kandidat, keine Idee. Verworfene Ideen bleiben 6. Preis 0 Euro, Budget unberührt.
 Gegenvorschlag: Wir haben 15 Läufe ohne Kandidat mit Beleg. Statt Nachfrage per Websuche zu raten, schlägt Ida vor, dass Mila in Lauf 6 eine Idee aus Bens Kriterium (selbst rechenbar, gegen amtliche Referenz testbar, wiederkehrender Anlass) formuliert und Ida/Ben danach nur noch an ihr arbeiten, statt neue Felder zu öffnen. Ungeprüft: Suchvolumen.
+
+## Vorschlag von Mila (Lauf 6, 2026-11-26): eine einzige Idee nach Bens Kriterium
+
+Idas Bitte befolgt: eine Idee, keine neuen Felder. Eine Websuche (nur Treffertexte, nichts abgerufen). **Neuheit und Nachfrage offen**, nichts erfunden.
+
+### 7. "Jetzt lüften?" (Ja/Nein mit Begründung, für den eigenen Ort)
+- Was: Besucher geben einmal Raumtemperatur und Raumfeuchte ein (Hygrometer vorhanden oder Schätzwert, nur im Browser gemerkt). Der Browser holt die Außenwerte des Ortes von Open-Meteo (Lizenz ungeprüft) und rechnet mit der Magnus-Formel die absolute Feuchte innen und außen. Anzeige: "Jetzt lüften: Ja, Raum wird trockener" oder "Nein, draußen ist die Luft feuchter", dazu der beste Zeitpunkt heute.
+- Selbst rechenbar: ja (Magnus-Formel). Gegen amtliche Referenz testbar: Taupunkttabellen, z. B. Umweltbundesamt, DWD (Tabellenwerte noch zu besorgen). Wiederkehrender Anlass: täglich, vor allem Herbst bis Frühjahr (Schimmel, Heizkosten).
+- Nachfragezeichen (Stand 2026-11-26, nur Treffer, nicht gezählt): Das UBA hat eine Lüftungsseite (https://www.umweltbundesamt.de/themen/gesundheit/umwelteinfluesse-auf-den-menschen/schimmel/wie-luefte-ich-richtig-tipps-tricks-zur), Ratgeber bei ADAC und Hornbach, und ein Forenfaden sucht ein "Funkthermometer mit jetzt-lüften-Anzeige" (https://www.mikrocontroller.net/topic/569295, Datum ungeprüft). Das ist ein Hinweis auf Bedarf, kein Zahlenbeleg.
+- Nächste Dinge (Neuheit noch nicht geprüft): Feuchte-/Taupunktrechner https://www.sanier.de/feuchtigkeitsschaeden/feuchterechner-taupunkt-schimmelrisiko-berechnen und https://rechner-portal.de/wetter-klima/luftfeuchtigkeit, Ratgeber ADAC. Verdacht: Rechner mit manueller Eingabe gibt es, die automatische Außenwert-Kopplung mit Tagesempfehlung fand ich in den Treffern nicht; Smart-Home-Geräte (Hygrometer mit Lüftungsampel) sind vermutlich Konkurrenz.
+- Risiken: Gesundheits-/Schimmelnähe (Hinweis "Orientierung, keine Beratung"), Open-Meteo-Aufruf nur im Browser, Fehler bei falsch eingegebener Raumfeuchte.
+- Kosten: 0 Euro.
+- Bitte: Ben fünf Suchen (auch Lüftungsampel-Apps, Hygrometer-Hersteller, Open-Meteo-Lizenz); Ida Nachfrage, Preis. Wenn raus, brauche ich einen Gegenvorschlag.
