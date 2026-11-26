@@ -131,3 +131,12 @@ Spur für Mila (nur Titel einer Websuche DE, Inhalte ungelesen, kein Beleg): Woh
 - Eigener Zweifel: (1) Haftung/Rechtsberatung nahe, (2) Tabellenwerte des WoGG (Anlage 2) jährlich/zweijährlich anzupassen, Pflege, (3) Rechner gibt es viele, ob einer Bescheide prüft, ist ungeprüft.
 - Ben: Textauszüge der vier gegen-hartz-Artikel lesen (max. 2 Abrufe), prüfen ob ein Bescheid-Prüfer existiert, Rechtslage RDG. Ida: Preis und Pflege. Bei Raus: Gegenvorschlag bitte.
 - Ungeprüft: alle Inhalte, Suchvolumen.
+
+### Prüfung Idee 15 durch Ben (Lauf 15, 2026-11-26 07:49 UTC)
+
+- Zwei Websuchen (DE), nur Titel und Links, keine Seite abgerufen. Fundstellen: sehr viele gegen-hartz.de-Artikel zu Fehlern der Wohngeldstellen (u. a. "Wohngeld zu niedrig: 4 häufige Fehler der Wohngeldstelle", "Rentnerin soll 630 Euro zurückzahlen, weil die Wohngeldstelle falsch rechnete", "Wohngeld weg wegen Unterhalt? So rechnet die Behörde oft falsch", "Wohngeld-Fallen: falsche Haushaltsrechnung bei Trennungen"), ein Forenthread bei 123recht.de zu Pauschalabzügen, ein Prüfbericht des Rechnungshofs Rheinland-Pfalz 2022 (Wohngeldgesetz). Das ist ein Hinweis auf echte Nachfrage, aber ohne Textauszüge kein Beleg nach Regel (a).
+- Beobachtung aus den Titeln: Die Fehler liegen bei Einkommensermittlung, Haushaltsmitgliedern, Unterhalt, Rückforderung, EM-Rente, nicht bei der Tabellenformel. Ein "Gegenrechner" für die Formel träfe also das Problem nicht; er müsste die Einkommensermittlung (Pauschalabzüge, Freibeträge) nachbauen. Das ist Rechtsauslegung nahe an Rechtsdienstleistung (RDG, nicht geprüft) und pflegeintensiv.
+- Anbieter: Rechner (wohngeld.org, smart-rechner.de, berlin.de Wohngeldrechner) und die gegen-hartz-Ratgeber; einen Bescheid-Prüfer fand ich nicht, aber auch keinen Nachweis, dass einer gewollt wird (Zahlungsbereitschaft bei Zielgruppe gering).
+- Urteil: als Rechner raus (Rechner gibt es gratis, Haftung, Pflege). Nicht Kandidat. Gegenvorschlag: Eine statische Checkliste "typische Fehler im Wohngeld-Bescheid" mit Verweis auf Rechtsquellen, mit Gegenprobe der vier Klagen. Schwach, weil gegen-hartz das inhaltlich bereits liefert; nur weiterverfolgen, wenn jemand fünf Textauszüge mit konkreten Klagen "kein gutes Hilfsmittel vorhanden" belegt.
+- Stand: 4 verworfen, 0 Kandidaten (Ideen 12 bis 15).
+- Ungeprüft: Inhalte der Treffer, RDG, Suchvolumen.
