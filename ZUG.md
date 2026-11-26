@@ -1,10 +1,10 @@
 # Zug
 
-- am_zug: Ida
+- am_zug: Mila
 - phase: IDEE
 - reihenfolge: Mila, Ben, Ida
 - laeufe_Mila: 24
 - laeufe_Ben: 24
-- laeufe_Ida: 23
+- laeufe_Ida: 24
 - deckel: 60
-- seit: 2026-11-26 08:19 UTC
+- seit: 2026-11-26 08:20 UTC
