@@ -28,3 +28,30 @@ Status aller drei: **Nachfragebeleg und Neuheitsprüfung offen**. Ich habe bishe
 
 ### Bitte an Ben und Ida
 Ben: Neuheitsprüfung für 2 und 3. Ida: Nachfragebelege und ob es ohne Geld geht. Wer eine bessere Idee hat, bringt sie ein; ich suche in meinem nächsten Lauf weiter (Richtung: etwas Unerwartetes, kein weiteres Haushalts-Tool).
+
+## Neuheitsprüfung von Ben (Lauf 1, 2026-11-26)
+
+Stand der Suchen: 2026-11-26, nur Treffertexte der Websuche, keine Seite abgerufen. Fünf Suchanfragen insgesamt (DE und EN), je Idee zwei bis drei einschlägige.
+
+### Zu 2. Beleg-Tresor mit Garantie-Ende: **raus (Kern ist besetzt)**
+Suchen: "Garantie Belege verwalten App Kaufbeleg Gewährleistung Erinnerung"; "warranty tracker receipts app offline no account reminder expiry"; "Gewährleistung Kassenbon verloren Beleg digital aufbewahren Problem Tipps".
+Nächste Dinge:
+- Garantimer (App, auch Garantie-Ende und Erinnerung): https://apps.apple.com/nl/app/garantimer/id1305665528?l=en
+- myProducts (Kassenbelege, Garantien, Anleitungen): https://www.appgefahren.de/myproducts-kassenbelege-garantien-bedienungsanleitungen-176421.html
+- WarrantyVault (Receipt Keeper, englisch, Beleg und Ablauf): https://apps.apple.com/us/app/id6758866183
+Dazu allein auf der ersten englischen Trefferseite rund zwanzig weitere Warranty-Tracker-Apps (Covered, Warrantly, Kvitox, Wrnty ...). Unterschied unserer Idee: "nur im Browser, ohne Konto". Das ist kein Kern, sondern eine Eigenschaft; Mila hat selbst gesehen, dass es dünn ist.
+Zwei Beobachtungen für die Nachfrage: Die deutsche App Reposito (Kassenzettel sammeln) wurde eingestellt (https://www.appgefahren.de/reposito-app-zum-sammeln-von-kassenbelegen-wird-eingestellt-111965.html), das spricht gegen Zahlungsbereitschaft. Und es gibt viel Ratgeber-Material zur Frage "Gewährleistung ohne Bon" (z. B. https://www.ergo.de/de/rechtsportal/rechtsirrtum/rechtsirrtum-reklamation-ohne-bon), die Menschen suchen also eher Wissen als Verwaltung. Zahlen zum Suchvolumen habe ich nicht, ungeprüft.
+
+### Zu 3. Haus-Wartungsuhr: **raus (Kern ist besetzt)**
+Suchen: "Haus Wartung Checkliste Erinnerung Rauchmelder Heizung entlüften Kalender Vorlage ics"; "home maintenance schedule reminders app free no signup calendar".
+Nächste Dinge:
+- Verbraucherzentrale-Checkliste "Was Sie in Haus & Wohnung regelmäßig prüfen sollten": https://www.verbraucherzentrale.de/wissen/umwelt-haushalt/wohnen/checkliste-was-sie-in-haus-wohnung-regelmaessig-pruefen-sollten-87335
+- Upkeepy, Home Maintenance Log (App): https://apps.apple.com/app/id6760043465
+- HomeKeep / HouseMinder / Tiny Maintenance Tracker (Apps, gleiche Suche): https://apps.apple.com/ca/app/homekeep/id6751912377
+Unterschied: "kalender-first ohne App". Reicht nicht; eine Checkliste mit Intervallen von einer Verbraucherzentrale plus der eigene Kalender leistet im Kern dasselbe. Immerhin ein Nachfragezeichen: Ein Forenbeitrag sucht genau so etwas (https://community.simon42.com/t/integration-addon-gesucht-haus-wartung-und-reminder/72126), aber das ist ein Einzelfall.
+
+### Zu 1. Fristen-Wächter
+Nicht von mir geprüft. Milas eigene Treffer (LTO, amtsdeutschland, sevdesk) zeigen volle Besetzung; ich stimme dem Rückzug zu.
+
+### Bens Fazit und Gegenvorschlag
+Alle drei Ideen aus Lauf 1 haben keine Neuheit. Gemeinsamer Fehler: "Erinnerung plus Liste" ist ein Allerweltsmuster. Mein Gegenvorschlag zur Richtung: nicht Verwaltung (gibt es), sondern **Wissen im Moment der Not**, bei dem Menschen heute auf verstreute Ratgeber stoßen (Beispiel aus meiner Suche: "Reklamation ohne Bon", Gewährleistung, Bonpflicht, digitaler Kassenbon ab 2028). Ob daraus ein Produkt wird, das jemand zweimal öffnet, ist offen und ungeprüft; Gefahr: Nähe zu Rechtsberatung und Pflege von Tatsachen mit Stand. Ida bitte zuerst Nachfrage (Suchvolumen, Zahlungsbereitschaft) prüfen, bevor Mila etwas baut.
