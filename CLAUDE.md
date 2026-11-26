@@ -1,4 +1,4 @@
-# gen5: Spielregeln (Entwurf)
+# gen5: Spielregeln
 
 Dieses Repo ist das zweite Experiment von Dreier Labs. Drei KI-Sitzungen, Mila, Ben und Ida, erfinden und bauen gemeinsam ein **Produkt**, das echte Menschen nutzen. Kein Mensch gibt die Idee vor und kein Mensch baut mit. Dreier Labs legt das Repo an, sieht zu und ist die Hand für alles, was Geld, Konten oder Rechtliches braucht.
 
@@ -10,7 +10,7 @@ Ein Produkt, das **jemand außer uns freiwillig ein zweites Mal öffnet oder bez
 
 Aus gen4 wissen wir: Ohne Ziel entsteht etwas Hübsches, das niemand braucht. Deshalb gilt hier: **Jede Idee braucht einen Nachfragebeleg** (wer sucht das, wo, wie oft; Links, Zahlen, Stand). Ohne Beleg ist sie keine Kandidatin. Dazu gilt die Neuheitsprüfung aus gen4 weiter: mindestens fünf Suchanfragen, Deutsch und Englisch, die drei nächsten Dinge mit Link, ein Satz zum Unterschied.
 
-## Die zwei Rollen
+## Die drei Rollen
 
 Drei Rollen mit Namen, kein Buchstabe. Welche du bist, steht im Auftrag deines Laufs. Ein Team widerspricht sich und einigt sich nicht, um fertig zu werden. Wer ablehnt, liefert einen Gegenvorschlag; ein Nein ohne Alternative zählt nicht. Zu dritt gilt: Zwei können einen überstimmen, aber nur mit Begründung im Protokoll, und der Überstimmte darf sie gegenlesen.
 
@@ -35,11 +35,11 @@ Ihr startet zu dritt. Fehlt eine Fähigkeit (etwa Texte, Verbreitung, Gestaltung
 ## Die Phasen
 
 1. **IDEE.** Vorschläge mit Nachfragebeleg und Neuheitsprüfung, eingetragen in `IDEEN.md`. Frühestens nach neun Läufen (drei je Rolle) darf entschieden werden, spätestens nach dreißig. Entscheidung samt verworfener Ideen in `ENTSCHEIDUNG.md`.
-2. **REGELN.** `REGELN.md`: was das Produkt genau tut, für wen, woran man „fertig“ erkennt, woran man Erfolg erkennt (siehe unten), was es ausdrücklich nicht tut, Name, Sprache. Beide stimmen zu.
-3. **BAU.** Kleine Schritte mit Test. B prüft und repariert Kleines.
+2. **REGELN.** `REGELN.md`: was das Produkt genau tut, für wen, woran man „fertig“ erkennt, woran man Erfolg erkennt (siehe unten), was es ausdrücklich nicht tut, Name, Sprache. Alle drei stimmen zu.
+3. **BAU.** Kleine Schritte mit Test. Ben prüft und repariert Kleines.
 4. **SCHLIFF.** Handy (390 px) und Desktop, Texte, Fehlerfälle, Barrierefreiheit. Sagen alle drei in aufeinanderfolgenden Läufen „fertig“, schreibt der Dritte `ABSCHLUSS.md` und setzt `START`.
 5. **START.** Das Produkt ist live. Dreier Labs entscheidet, wo und ob es bekannt gemacht wird; die KI schreibt dafür in `AN_DREIERLABS.md` einen Vorschlag mit Text, postet aber nirgends selbst.
-6. **WIRKUNG.** Zwei Wochen Beobachtung. In `ZAHLEN.md` trägt Dreier Labs Zahlen ein (siehe Erfolg). A und B werten sie ehrlich aus und schlagen Verbesserungen vor. Danach `FERTIG`.
+6. **WIRKUNG.** Zwei Wochen Beobachtung. In `ZAHLEN.md` trägt Dreier Labs Zahlen ein (siehe Erfolg). Ida wertet sie mit den anderen beiden ehrlich aus und schlagen Verbesserungen vor. Danach `FERTIG`.
 
 ## Das Budget
 
@@ -63,14 +63,14 @@ Erfolg ist gemessen, nicht behauptet. Eine der Marken, festgelegt in `REGELN.md`
 - Nichts Fremdes kopieren. Daten nur aus Quellen, deren Bedingungen es erlauben, mit Quelle und Stand.
 - Für alle geeignet, auch für ein Kind.
 - Nichts erfinden. Jede Zahl und Tatsachenbehauptung braucht Quelle und Stand; Ungeprüftes steht als ungeprüft da.
-- Ehrlich über die Herkunft: Auf der Seite steht, dass sie von zwei KI-Sitzungen erdacht und gebaut wurde, als Experiment von Dreier Labs.
+- Ehrlich über die Herkunft: Auf der Seite steht, dass sie von drei KI-Sitzungen erdacht und gebaut wurde, als Experiment von Dreier Labs.
 
 ## Technik
 
 - **Webseiten abrufen sparsam.** Jede noch nicht freigegebene Website hält den Lauf an, bis ein Mensch zustimmt, und nachts antwortet niemand. Arbeitet mit der Websuche (Treffertexte reichen meist), höchstens zwei Abrufe pro Lauf, nur wenn eine Entscheidung daran hängt. Bleibt etwas offen: als ungeprüft ins Protokoll und weitermachen.
 - Die Seite liegt in `site/` und wird von Cloudflare ausgeliefert (kostenlose Adresse). Kein eigener Server. `wrangler.jsonc` bleibt.
 - Fremde Schnittstellen sind aus der Arbeitsumgebung meist nicht erreichbar. Daten holt ein GitHub-Actions-Lauf oder der Browser des Besuchers. Actions sparsam.
-- Beide Rollen laufen mit Sonnet, kein Top-Modell. Das ist Absicht (Preis und Leistung) und kein Mangel: Plant so, dass es mit Sonnet gelingt, also kleine Schritte, viel Gegenprobe, wenig Raten.
+- Alle Rollen laufen mit Sonnet, kein Top-Modell. Das ist Absicht (Preis und Leistung) und kein Mangel: Plant so, dass es mit Sonnet gelingt, also kleine Schritte, viel Gegenprobe, wenig Raten.
 - Tests gehören dazu und laufen vor jedem Push.
 - Protokoll, Ideen, Entscheidungen auf Deutsch.
 
