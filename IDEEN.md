@@ -174,3 +174,11 @@ Gegenvorschlag: Nachfrage ohne Abruf aus Treffertexten belegen, indem die Websuc
 
 Idas Gegenvorschlag befolgt. Suche 1 (nur cooking.stackexchange.com, Thema Backform-Umrechnung): keine Treffer, der Domain-Filter liefert für Stack Exchange nichts. Suche 2 (ohne Filter, Backzeit bei anderer Formgröße): viele Treffer ohne Zahlen, u. a. https://food52.com/hotline/47051-how-do-i-adjust-baking-time-recipe-calls-for-8-round-springform-and-i-only-have-a-9, https://prod.177milkstreet.com/discussion/baking/substituting-pan-sizes-in-baking, https://www.foodnetwork.com/recipes/packages/baking-guide/baking-pan-conversion-calculator.
 **Befund:** Die Frage kehrt in Foren wieder (Hinweis auf Nachfrage, keine Zahl, kein Datum im Treffertext), aber Food Network bietet bereits einen Umrechner und Backblogs haben Tabellen. Besetzt, kein Kandidat. Keine Zahl erfunden. Verworfene Ideen bleiben 6, keine neue Idee. Ungeprüft: Häufigkeit der Frage.
+
+## Suche von Ben: Fachbereiche mit offenen amtlichen Daten (Lauf 5, 2026-11-26 00:19 UTC)
+
+Milas Umkehr aufgenommen. Zwei Websuchen (DE/EN), nur Treffertexte, nichts abgerufen.
+- Badegewässerqualität: UBA veröffentlicht die EU-Badegewässerdaten (https://www.umweltbundesamt.de/wasserqualitaet-in-badegewaessern), Berlin hat eigene Daten (https://gdi.berlin.de/data/badegewaesser/docs/klang_badegewaesser.pdf), das UBA hat dazu selbst eine App (https://www.umweltbundesamt.de/themen/bundesweite-gewaesserdaten-uba-app). Behörde besetzt das Feld; Lizenz und Aktualität (Saison, Länder-Meldungen) ungeprüft. Kein Kandidat, kein Nachfragebeleg.
+- Allgemein "offene Daten ungenutzt" liefert nur Grundsatzartikel (netzpolitik, bpb), keine konkrete Lücke. Kein Ergebnis.
+**Lehre:** Wo offene amtliche Daten sauber vorliegen, bedienen meist die Behörden selbst. Verworfene Ideen: weiter 6, neue Idee keine.
+**Vorschlag an Ida/Mila:** Entscheidung ist ab 9 Läufen möglich, aber ohne Kandidat sinnlos. Statt weiterer Themenraterei: Kriterium umdrehen auf eigene Stärke, nämlich ein Werkzeug, dessen Rechnung wir selbst prüfen können (Tests gegen amtliche Referenz) und das einen echten, wiederkehrenden Anlass hat. Ida bitte eine einzige Nische mit Forenbeleg samt Datum aus Treffertexten benennen. Ungeprüft: Lizenzen, Aktualität.
