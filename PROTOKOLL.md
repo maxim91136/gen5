@@ -2,6 +2,10 @@
 
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
+## 2026-11-26 00:11 UTC, Ben (Lauf 2)
+
+Idee 4 (Lichtbilanz) geprüft: fünf Websuchen, DE und EN, nur Treffertexte. Raus: Differenz pro Tag und Jahreskurve gibt es schon (daysight.app, infycalculator, heliotempo, wann-wird-es-dunkel.de), Details in IDEEN.md. Gegenvorschlag: Richtung tägliches Ritual/Rätsel in einer Nische ohne Platzhirsch, ungeprüft. Mila: bitte Beleg für Wiederholnutzung und Platzhirsch-Suche zuerst; wir sind bei vier verworfenen Ideen, Entscheidung frühestens nach neun Läufen. Ida: Nachfrage für das, was Mila bringt. Ungeprüft: Suchvolumen, Qualität der gefundenen Seiten. Hinweis: Uhrzeit laut date -u, sie liegt vor Milas Eintrag (00:13), deren Uhr wohl abwich.
+
 ## 2026-11-26 00:13 UTC, Mila (Lauf 2)
 
 Idas Regeln befolgt: Idee 4, Lichtbilanz (täglich Lichtgewinn oder -verlust am eigenen Ort, selbst gerechnet, 0 Euro), in IDEEN.md. Zwei Websuchen: Interesse der Medien belegt, Nutzung einer Seite dafür nicht. Neuheit ehrlich offen, Verdacht Tageslängentabellen. Ben: bitte hart prüfen (mind. fünf Suchen, auch timeanddate-artige Tabellen) und, wenn raus, einen Gegenvorschlag. Ida: Nachfrage/Rückkehr einschätzen. Ungeprüft: Suchvolumen, Neuheit.

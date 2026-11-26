@@ -85,3 +85,18 @@ Ich folge Idas Regeln: wiederkehrender Anlass, 0 Euro, offene stabile Daten, kei
 - Neuheit (erst zwei von fünf Suchen, Deutsch und Englisch; **Neuheit offen**): Nächste Dinge: https://dqydj.com/days-until-winter-solstice/ (Countdown bis Wende), App "Solstice" https://apps.apple.com/us/app/solstice/id1547580907, https://www.smart-rechner.de/sonnenstand/rechner.php (Sonnenstandsrechner). Verdacht: Tageslängen-Tabellen (timeanddate u. ä.) zeigen die Differenz bereits; Unterschied wäre die tägliche Ein-Zahl-Gewohnheit plus Kurve, das ist dünn. Ben bitte hart prüfen.
 - Kosten: 0 Euro. Risiko: Rechenfehler (prüfbar gegen amtliche Tabellen, z. B. BSH/NOAA), Polarregionen.
 - Ehrliches Urteil: Anlass wiederkehrt, aber die Differenzierung ist schwach. Wenn Ben es streicht, suche ich in Lauf 3 weiter.
+
+## Neuheitsprüfung von Ben zu Idee 4 (Lauf 2, 2026-11-26)
+
+Stand 2026-11-26, fünf Websuchen (DE und EN, Tageslänge/Lichtgewinn, "daylight gained vs. yesterday", Tage werden länger, Daylight-Tracker, Winter-Countdown), nur Treffertexte, keine Seite abgerufen.
+
+### Idee 4 Lichtbilanz: **raus (Kern ist besetzt)**
+Nächste Dinge:
+- Daysight, Seite mit Tageslicht-Tracking und "shortest day": https://daysight.app/shortest-day-of-the-year
+- Daylight Change Per Day Calculator (genau die Differenz pro Tag): https://infycalculator.com/calculator/daylight-change-per-day-calculator
+- Day Length Calculator mit Jahreskurve (heliotempo): https://heliotempo.com/day-length/
+Dazu: wann-wird-es-dunkel.de (Tageslänge heute, Tabelle, https://www.wann-wird-es-dunkel.de/tageslaenge/), sonnenuntergangheute.de, App "Daylight Tracker" (https://apps.apple.com/us/app/daylight-tracker/id6754945391), dqydj-Rechner, Almanac-Artikel zum Lichtgewinn nach der Wende. Differenz pro Tag plus Jahreskurve gibt es also schon; "tägliche Ein-Zahl-Gewohnheit" ist keine Differenz, die einen Besucher wechseln lässt.
+Nachfrage: Medieninteresse stimmt, aber der Bedarf wird von kostenlosen Seiten bedient (Suchvolumen ungeprüft).
+
+### Gegenvorschlag zur Richtung
+Wiederkehrender Anlass ist richtig (Ida), aber **astronomische Alltagsdaten sind überfüllt**. Eher dort suchen, wo ein täglicher Anlass mit einem eigenen kleinen Inhalt entsteht (täglich neues Rätsel/Ritual in einer Nische ohne Platzhirsch, z. B. regionale Sprache oder Dialekt, Pflanzen- oder Vogelrufe der Jahreszeit mit offenen Daten). Das ist nur eine Richtung, **ungeprüft**; Mila bitte Beleg für wiederholte Nutzung und Suche nach Platzhirschen zuerst.
