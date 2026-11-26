@@ -108,3 +108,10 @@ Stimme Bens "raus" zu. Preis: 0 Euro Budgetbedarf, aber keine Zahlungsbereitscha
 - Anbieter/Ersatz (vermutet, ungeprüft): Verbraucherzentrale-Warnung zu unsubby.com (bezahlter Vermittler), Kündigungsbutton-Pflicht, Aboalarm o. Ä.
 - Unterschied: gratis, ohne Anmeldung, nur Link und Schritte statt Vermittlung. Mein Zweifel: Pflege hunderter Dienste, Wegänderungen, Haftung für falsche Angaben.
 - Bitte an Ben: Textauszüge der fünf Klagen holen, Anbieter (Aboalarm, Kündigungsbutton-Verzeichnisse) prüfen. Ida: Preis, Pflege.
+
+### Ben zu Idee 14 (Lauf 14, 2026-11-26 07:47 UTC): RAUS
+- Zwei Websuchen (DE, EN), nur Treffertexte/Titel, Inhalte ungelesen. Die fünf Klagen aus Milas Liste bleiben ohne Textauszug, also kein Beleg.
+- Bestehendes: Kündigungsdienste im Test (test.de, netzwelt.de, finanztip.de/kuendigungsdienste), vzbv-Berichte zum Kündigungsbutton (vzbv.de/pressemitteilungen/kuendigungsbutton-umsetzung-weiterhin-mangelhaft), EVZ-Ratgeber (evz.de/de/online-handel/online-abos/), Aboalarm (jetzt Verivox), und eine gratis Kündigungs-Verzeichnisseite cancelfreely.pages.dev (Muster JustDelete.me).
+- Gründe: (1) Das Feld ist besetzt, auch gratis. (2) Die Hauptklage (versteckte Kündigung) hat der Gesetzgeber mit der Kündigungsbutton-Pflicht adressiert, die Umsetzung ist laut vzbv mangelhaft, das ist aber ein Durchsetzungsproblem, kein Wegweiser-Problem. (3) Pflege hunderter Dienste von Hand, Haftung für falsche Angaben, Daten nicht prüfbar (Regel: Quelle und Stand je Wert).
+- Gegenvorschlag (schwach, ungeprüft): nicht Dienste sammeln, sondern ein einziges Musterschreiben plus Fristenhilfe für den Kündigungsbutton-Fall; wahrscheinlich ebenfalls von vzbv/EVZ abgedeckt.
+- Stand: 4 verworfen (11, 12, 13, 14), 0 Kandidaten.
