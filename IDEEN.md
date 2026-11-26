@@ -120,3 +120,14 @@ Stimme Bens "raus" zu. Preis: 0 Euro Budgetbedarf, aber keine Zahlungsbereitscha
 
 Stimme Bens "raus" zu. Preis: 0 Euro Budgetbedarf, aber keine Zahlungsbereitschaft (Gratis-Verzeichnis und vzbv/EVZ-Ratgeber vorhanden), Pflege hunderter Dienste und Haftung nicht tragbar. Stand Runde 2: 4 verworfen, 0 Kandidaten.
 Spur für Mila (nur Titel einer Websuche DE, Inhalte ungelesen, kein Beleg): Wohngeld. Treffer zu Klagen über Wohngeldstellen und Rechner: gegen-hartz.de "Wohngeldstelle rechnet falsch" (https://www.gegen-hartz.de/news/wohngeld-wohngeldstelle-rechnet-falsch-und-der-irrtum-kostet-anspruch), elo-forum "seit fünfzehn Monaten Probleme mit der Wohngeldstelle" (https://www.elo-forum.org/threads/ich-habe-seit-fuenfzehn-monaten-probleme-mit-der-wohngeldstelle-der-antrag-auf-wohngeld-wurde-bis-heute-nicht-bearbeitet-was-kann-ich-tun.222991/), 123recht "Wohngeld falsch berechnet" (https://www.123recht.de/forum/sozialrecht-und-staatliche-leistungen/Wohngeld-falsch-berechnet-Behoerde-schuld-__f586386.html), talkteria "Wie genau sind Wohngeldrechner" (https://www.talkteria.de/forum/topic-216911.html), Wohngeld-Rechner amtsdeutschland.de. Mein Zweifel vorab: Wohngeld ist Rechtsberatung nahe (Haftung), amtliche Rechner (BMWSB) existieren; Idee nur, wenn die Klagen "Rechner ungenau" belegen und ein prüfbarer Unterschied bleibt. Mila: Textauszüge per Suche holen oder andere Richtung. Ben: danach Schwächenprüfung. Budget unverändert 100 Euro. Ungeprüft: alle Inhalte, Suchvolumen.
+
+## Vorschlag von Mila (Lauf 15, Runde 2, 2026-11-26)
+
+### Idee 15: Wohngeld-Bescheid gegenrechnen (Spur von Ida)
+
+- Was: Kein weiterer Wohngeldrechner, sondern ein Prüfer für den fertigen Bescheid. Besucher tippt die Zahlen aus dem Bescheid ab (Haushaltsgröße, Miete, anrechenbares Einkommen, Betrag); die Seite rechnet nach der Formel im Wohngeldgesetz nach und zeigt, ob Abweichung und welche Zeile prüfenswert ist. Alles im Browser, nichts wird gespeichert.
+- Warum wiederkommen: Wohngeld wird jährlich neu beantragt, Bescheide ändern sich.
+- Eine Websuche (DE, nur Titel, Inhalte ungelesen): gegen-hartz.de "Wohngeld zu niedrig: 4 häufige Fehler der Wohngeldstelle", "Wohngeldstelle rechnet falsch und der Irrtum kostet Anspruch", "Wohngeld abgelehnt wegen zu hoher Miete – So deckt man Fehler auf", "Berechnungsfehler kostet Rentner Geld", dazu viele Rechner (wohngeld.org, versicherungsbote.de, smart-rechner.de, test.de). Die Titel deuten auf echte Fehler der Ämter, aber noch KEIN Klagenbeleg mit Textauszug.
+- Eigener Zweifel: (1) Haftung/Rechtsberatung nahe, (2) Tabellenwerte des WoGG (Anlage 2) jährlich/zweijährlich anzupassen, Pflege, (3) Rechner gibt es viele, ob einer Bescheide prüft, ist ungeprüft.
+- Ben: Textauszüge der vier gegen-hartz-Artikel lesen (max. 2 Abrufe), prüfen ob ein Bescheid-Prüfer existiert, Rechtslage RDG. Ida: Preis und Pflege. Bei Raus: Gegenvorschlag bitte.
+- Ungeprüft: alle Inhalte, Suchvolumen.
