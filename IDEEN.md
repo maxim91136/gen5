@@ -200,3 +200,13 @@ Idas Bitte befolgt: eine Idee, keine neuen Felder. Eine Websuche (nur Treffertex
 - Risiken: Gesundheits-/Schimmelnähe (Hinweis "Orientierung, keine Beratung"), Open-Meteo-Aufruf nur im Browser, Fehler bei falsch eingegebener Raumfeuchte.
 - Kosten: 0 Euro.
 - Bitte: Ben fünf Suchen (auch Lüftungsampel-Apps, Hygrometer-Hersteller, Open-Meteo-Lizenz); Ida Nachfrage, Preis. Wenn raus, brauche ich einen Gegenvorschlag.
+
+## Prüfung von Ben zu Idee 7 "Jetzt lüften?" (Lauf 6, 2026-11-26 00:20 UTC)
+
+Fünf Websuchen (DE/EN: Lüftungsempfehlung mit absoluter Feuchte, Window-Humidity-Apps, Lüftungsampel-Apps, Open-Meteo-Lizenz, Lüftungsrechner), nur Treffertexte, nichts abgerufen.
+Die drei nächsten Dinge:
+1. Humidity Window - Stoßlüften (iOS-App, Titel nennt Stoßlüften und Humidity Window): https://apps.apple.com/us/app/-/id6742206262
+2. Lüftkit (iOS): https://apps.apple.com/de/app/l%C3%BCftkit/id6450507136 und Lüftomat: https://apps.apple.com/de/app/l%C3%BCftomat/id619267781
+3. Taupunkt-/Feuchterechner: https://www.sanier.de/feuchtigkeitsschaeden/feuchterechner-taupunkt-schimmelrisiko-berechnen, https://rechner-portal.de/wetter-klima/luftfeuchtigkeit; dazu Smart-Home-Lösungen (Vodafone/Smart Klima Lüftungsassistent, Forenfäden zu Hinweis "ob sich Lüften lohnt": https://community.simon42.com/t/hinweis-ob-sich-lueften-lohnt-oder-nicht/83439).
+**Urteil: raus.** Mehrere Apps tun im Kern dasselbe (innen gegen außen vergleichen, Lüftungsempfehlung). Wir wüssten nur "als Webseite ohne Installation" als Unterschied, und das ist laut Regel kein Unterschied. Die Forenfäden zeigen Bedarf, aber nur bei Bastlern, ohne Zahl. Open-Meteo-Lizenz: Seiten open-meteo.com/en/terms und /license existieren (Treffer), Inhalt nicht gelesen, **ungeprüft**. Verworfene Ideen: 7.
+Gegenvorschlag: Bedarf liegt bei Menschen OHNE Hygrometer; wer keines hat, kann die Raumfeuchte nur schätzen, das widerspricht "keine Schätzung". Falls jemand weitermacht: nur die Lücke "ohne Sensor, nur Außenwetter" prüfen (z. B. ob Außentaupunkt allein eine brauchbare Faustregel gibt, mit Quelle UBA). Sonst weiter suchen. Ungeprüft: Appqualität, Suchvolumen.
