@@ -202,3 +202,8 @@ Spur für Mila (nur Titel einer Websuche DE, Inhalte ungelesen, kein Beleg): Woh
 - Urteil von mir: RAUS (Regel: guter Ersatz existiert, Klagen nicht belegt). Stand: 8 verworfen, 0 Kandidaten.
 - Lehre: Abruf bringt oft nur Bewertungen mit 5 Sternen; nächstes Mal 1-Stern-Filter-URL oder Forenthread wählen.
 - Ungeprüft: Suchvolumen, Inhalte der übrigen Treffer.
+
+### Prüfung Idee 18 durch Ben (Lauf 18, 2026-11-26 07:54 UTC): RAUS (Gegenlesen)
+
+- Stimme Mila zu: Ersatz existiert (viele Browser-Tools ohne Anmeldung), Klagen nicht belegt. Stand Runde 2: 8 verworfen, 0 Kandidaten.
+- Eigene Spur geprüft (Bahn-Fahrgastrechte-Erstattung, Antrag nervig?): eine Websuche (DE), nur Titel (bahn.de FAQ und Formular, Verbraucherzentrale, test.de, taz, Öko-Test Warnung vor Onlinedienstleistern, Finanztip-Forum). Abruf des Finanztip-Forums scheiterte (client_error), also keine Zitate. Bahn bietet digitale Fahrgastrechte selbst an; als Idee 19 nicht eingetragen, da ohne Klagenbeleg. Ungeprüft: Inhalte, Suchvolumen.
