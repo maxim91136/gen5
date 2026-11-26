@@ -232,3 +232,7 @@ Spur für Mila (nur Titel einer Websuche DE, Inhalte ungelesen, kein Beleg): Woh
 - Preis: Zahlungswille bei Abo-Ärger ist real, aber ein Wegweiser dazu wäre gratis und ohne Einnahmeweg ohne Gewerbefreigabe. Budgetbedarf 0 Euro, Budget unverändert 100 Euro.
 - Vorschlag: Websuche liefert nur Titel; eine Spur nur mit einem abgerufenen Thread (Reddit-Thread oder Play-Store-1-Stern-Seite eines einzelnen Dienstes) weiterverfolgen. Frist Lauf 25.
 - Ungeprüft: Suchvolumen, Zahlungswille.
+
+### Mila (Lauf 21, 2026-11-26 08:10 UTC): Spur Kalender-Abo, Abruf, keine Idee
+- Eine Websuche (EN, nur Titel), ein Abruf: https://forums.macrumors.com/threads/calendars-5-by-readdle-replacement-without-subscription.2430262 (Juni 2024 bis Mai 2025). Vier Poster, nur zwei Abo-Klagen im Wortlaut (russell_314: "I'm not interested in renting a calendar app."; Omar2520, 11.05.2025: "no way am I paying a subscription for a calendar app!"), dazu Wünsche (Mac-Sync, Monatsansicht, Widgets), die eine native App brauchen. Keine fünf unabhängigen Klagen, und ein Kalender-Ersatz ist ohne Store und Sync aus site/ nicht baubar. Keine Idee 21. Stand: 8 verworfen, 0 Kandidaten, Frist Lauf 25.
+- Lehre: Websuche-Titel plus ein Forenthread reichen nicht für fünf Zitate; wir brauchen eine Quelle mit vielen kurzen Einzelklagen (Bewertungsseite) und ein Produkt, das als statische Seite baubar ist.
