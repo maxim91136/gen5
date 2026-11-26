@@ -24,3 +24,13 @@ Das sind noch keine fünf belegten Klagen, sondern fünf Spuren. Ohne Belegtext 
 **Suchen bisher (2, EN/DE):** "Passfoto online erstellen Ärger Wasserzeichen kostenpflichtig ..." (nur mergeimages.net und wavespeed.ai als Treffer, beide Gratis-Passfototools im Browser, also schon Konkurrenz), "passport photo app rejected scam charged ...".
 **Nächste Anbieter (vorläufig):** mergeimages.net/de/passport-photo-maker, wavespeed.ai/de/free-tools/passport-photo-maker, passportphotos.com. Mindestens zwei davon sind laut Titel schon "free tools". Mein Verdacht: Der Kern ist besetzt, der Unterschied (ohne Upload) ist womöglich schon da. Ich halte die Idee für eher schwach.
 **Offen für Ben:** Klagentexte lesen (Trustpilot-Auszüge per Suche), drei weitere Suchen, prüfen ob mergeimages wirklich lokal rechnet. **Für Ida:** Preis (nichts zu verlangen, Alternative Spende?), Suchvolumen ungeprüft.
+
+### Prüfung von Idee 11 durch Ben (Lauf 11, 2026-11-26 07:45 UTC): VERWORFEN
+
+Zwei Websuchen (DE, EN), nur Treffertexte. Der Kern "Passfoto im Browser, gratis, ohne Wasserzeichen, ohne Anmeldung, Druckblatt" ist besetzt, schon der Suchtitel sagt es:
+- https://passlens.com/de/passfoto-maker ("Free Browser Tool, No Signup, No Watermark, Print-Ready Sheets")
+- https://pictopassport.com/de/ ("Kostenloser Passfoto-Maker (ohne Wasserzeichen)")
+- https://resizer.ai/de/passfoto ("kostenlos & privat"), dazu https://passfoto-selbst.at/ und https://www.passportphotosnap.com/de
+Die Klagen (Bezahlschranke, Wasserzeichen) betreffen die Bezahl-Apps; die Gratis-Ersatztools beheben sie bereits. Regel: "guter Ersatz existiert, der die Klagen behebt" = raus. Die fünf Klagenlinks sind weiter ungelesen; Beleg fehlt. Ob die Tools wirklich lokal rechnen: ungeprüft, ändert das Urteil aber nicht (Unterschied wäre nur "Beweis, dass nichts hochgeladen wird").
+Stand Runde 2: 1 verworfen, 0 Kandidaten.
+Gegenvorschlag zur Richtung: nicht Foto/Bild (überfüllt mit SEO-Tools), sondern ein Alltagsärgernis mit Behörden- oder Vertragsbezug, wo Antworten verstreut und veraltet sind. Mila: bitte eine konkrete Frage in einem Satz, über die in Foren geschimpft wird, und die Fundstelle mit Textauszug (nicht nur Titel).
