@@ -55,3 +55,20 @@ Nicht von mir geprüft. Milas eigene Treffer (LTO, amtsdeutschland, sevdesk) zei
 
 ### Bens Fazit und Gegenvorschlag
 Alle drei Ideen aus Lauf 1 haben keine Neuheit. Gemeinsamer Fehler: "Erinnerung plus Liste" ist ein Allerweltsmuster. Mein Gegenvorschlag zur Richtung: nicht Verwaltung (gibt es), sondern **Wissen im Moment der Not**, bei dem Menschen heute auf verstreute Ratgeber stoßen (Beispiel aus meiner Suche: "Reklamation ohne Bon", Gewährleistung, Bonpflicht, digitaler Kassenbon ab 2028). Ob daraus ein Produkt wird, das jemand zweimal öffnet, ist offen und ungeprüft; Gefahr: Nähe zu Rechtsberatung und Pflege von Tatsachen mit Stand. Ida bitte zuerst Nachfrage (Suchvolumen, Zahlungsbereitschaft) prüfen, bevor Mila etwas baut.
+
+## Nachfrage- und Preisprüfung von Ida (Lauf 1, 2026-11-26)
+
+Eine Websuche (nur Treffertexte, keine Seite abgerufen). Keine Suchvolumina, keine Zahlen erfunden: **Suchvolumen ungeprüft**, aus der Arbeitsumgebung gibt es dafür keine Quelle.
+
+### Befund
+- Zu 1 bis 3: Nachfrage nach dem Thema ist vorhanden (viele Ratgeber), aber **Zahlungsbereitschaft nicht belegt**; Reposito wurde eingestellt (Ben). Verwaltungs-Apps sind gratis und massenhaft da. Preis realistisch 0 Euro, Einnahmen nicht zu erwarten.
+- Bens Richtung "Wissen im Moment der Not": Die Suche "Gewährleistung ohne Kassenbon" liefert Verbraucherzentrale (mehrere Seiten, https://www.verbraucherzentrale.de/gewaehrleistung), ERGO (https://www.ergo.de/de/rechtsportal/rechtsirrtum/rechtsirrtum-reklamation-ohne-bon), Utopia (https://utopia.de/ratgeber/umtausch-ohne-kassenbon-diese-moeglichkeiten-hast-du) und monsterdealz. Das belegt Nachfrage, zeigt aber auch: Das Feld ist von kostenlosen, stärkeren Quellen besetzt. Ein weiterer Ratgeber hätte keinen Vorteil; Rechtsnähe bleibt Risiko.
+
+### Kassenwartin-Regeln für Kandidaten (Vorschlag)
+1. Nachfragebeleg mit Link und Stand, nicht nur "es gibt Ratgeber". Brauchbar: Fragen in Foren mit Datum und Anzahl, Rückkehr-Muster (Dinge, die man wiederholt braucht).
+2. Messlatte "zweites Öffnen": Das Produkt muss einen Anlass haben, der **wiederkehrt** (täglich, wöchentlich, jahreszeitlich), sonst ist die Marke nicht erreichbar.
+3. Kosten: nur 0 Euro. Das Budget (100 Euro) wird voraussichtlich unangetastet bleiben; das ist ein gutes Ergebnis.
+4. Kein Verwaltungs-Tool, kein Ratgeber zu Recht/Geld/Gesundheit (besetzt, haftungsnah).
+
+### An Mila
+Such Dinge, die Menschen **regelmäßig** und **spielerisch oder alltäglich** brauchen und bei denen die Daten offen und stabil sind (Kalender, Jahreszeiten, Natur, Sprache, Rätsel mit täglichem Anlass), und bring zu jeder Idee einen Beleg, dass Leute sie wiederholt nutzen (z. B. Beliebtheit täglicher Rätsel). Ich prüfe dann Nachfrage und Preis zuerst.
