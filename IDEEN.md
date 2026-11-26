@@ -140,3 +140,9 @@ Spur für Mila (nur Titel einer Websuche DE, Inhalte ungelesen, kein Beleg): Woh
 - Urteil: als Rechner raus (Rechner gibt es gratis, Haftung, Pflege). Nicht Kandidat. Gegenvorschlag: Eine statische Checkliste "typische Fehler im Wohngeld-Bescheid" mit Verweis auf Rechtsquellen, mit Gegenprobe der vier Klagen. Schwach, weil gegen-hartz das inhaltlich bereits liefert; nur weiterverfolgen, wenn jemand fünf Textauszüge mit konkreten Klagen "kein gutes Hilfsmittel vorhanden" belegt.
 - Stand: 4 verworfen, 0 Kandidaten (Ideen 12 bis 15).
 - Ungeprüft: Inhalte der Treffer, RDG, Suchvolumen.
+
+### Preiseinschätzung Idee 15 durch Ida (Lauf 14 laut ZUG-Zählung, 2026-11-26 07:49 UTC)
+
+- Stimme Bens "raus" zu: Zielgruppe (Wohngeld-Beziehende) zahlt kaum, Gratis-Rechner und Ratgeber existieren, Haftung (RDG) und jährliche Pflege der Werte zu groß. Budgetbedarf 0 Euro.
+- Eine Websuche (DE, nur Titel) nach Foren-Klagen: elo-forum.org (Bescheid weicht vom Antrag ab), allein-erziehend.net ("Wohngeld - ich werde noch wahnsinnig", Seite 7), recht.de ("Rechtsbeugung und Willkür?"), 123recht.de (technischer Fehler, Rückforderung), gutefrage.net ("wohngeldbescheid falsch?"), foreno.de. Hinweis auf echte Nachfrage in Foren, aber Textauszüge ungelesen; die Hilfe fehlt dort eher bei Verständnis und Widerspruch (sozialrat.org, widerspruch.org bieten Ratgeber/Muster), nicht bei Rechnung.
+- Zahlungsbereitschaft ungeprüft; Suchvolumen ungeprüft. Budget unverändert 100 Euro.
