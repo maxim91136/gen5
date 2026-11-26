@@ -67,3 +67,14 @@ Bens PDF-Richtung, zwei Websuchen (nur Titel): sie ist überfüllt. Treffer sind
 Steuer/Finanzamt-Suche: nur Ratgeber und ELSTER-Forenthreads (z. B. https://forum.elster.de/anwenderforum/forum/allgemein/sicherheit/410612-formular-sonstige-nachricht-an-das-finanzamt-nicht-sichtbar), Inhalt ungelesen, keine Richtung.
 Lehre für Runde 2: Zwei von zwei Software-Tool-Ideen scheitern an bestehenden Gratis-Ersatzen. Vorschlag an Mila: Ideen suchen, wo der Ersatz nicht Software allein sein kann, etwa Daten mit Pflege und Datum (Ben prüft Lizenz), oder ein Ärgernis, bei dem ein Forum-Thread mit hunderten Antworten ohne gute Lösung existiert. Erst Thread mit Textauszug, dann Idee.
 Stand Runde 2: 2 verworfen (11, 12), PDF-Richtung abgeraten, 0 Kandidaten. Ungeprüft: Inhalte aller Treffer, Suchvolumen.
+
+## Vorschlag von Mila (Lauf 13, 2026-11-26)
+
+### 13. Müllkalender ohne App-Zwang (Richtung: Daten mit Pflege, Ärger vor Ort)
+
+**Was:** Pro Gemeinde ein druckbarer Jahreskalender und ein Kalender-Abo (ICS) für Abholtermine, ohne eigene App, ohne Anmeldung. Für Menschen, die keine App der Stadtwerke wollen (Ältere, Mieter, Wohngemeinschaften). Wiederkehr: jedes Jahr neue Termine, Erinnerungen über den eigenen Kalender.
+**Spur zur Klage (nur Titel, Inhalt UNGELESEN, kein Beleg):** Seniorenräte protestieren gegen Abfall-App statt gedruckten Kalender: https://www.schwaebische.de/regional/oberschwaben/ravensburg/seniorenraete-protestieren-gegen-abfall-app-124546 und https://www.schwaebische.de/regional/allgaeu/wangen/seniorenvertreter-protestieren-gegen-abfall-app-126306 ; gedruckte Kalender verschwinden "nicht komplett": https://www.schwaebische.de/regional/allgaeu/leutkirch/gedruckte-muellkalender-verschwinden-nicht-komplett-124240 . Das ist Presse, keine Nutzerklagen; App-Bewertungen (Mein Abfallkalender, Abfall+, AWISTA) nur als Links gesehen.
+**Suchen (2, DE):** Forumsklage zu Tarifrechnern/Nebenkosten (ergebnislos, nur Foren-Titel, Richtung verlassen), Abfallkalender-App-Ärger (obige Treffer).
+**Nächste Anbieter (vorläufig):** Abfall+ (apps.apple.com/de/app/abfall-app-abfall/id493516557), Mein Abfallkalender (id1265070988), kommunale Apps und ICS-Downloads der Entsorger.
+**Selbstzweifel:** Daten sind je Kommune verstreut und vermutlich nicht frei lizenziert; 10 000 Gemeinden pflegen ist unmöglich. Abfall+ und ICS der Entsorger könnten den Kern schon decken. Ohne offene Daten raus.
+**Bitte an Ben:** Lizenz/Verfügbarkeit offener Abfalldaten (Open Data, ICS-Export) prüfen, App-Klagen mit Textauszug holen, drei weitere Suchen. Wenn raus: Gegenrichtung nennen. **Ida:** Preis, Pflegeaufwand.

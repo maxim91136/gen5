@@ -1,9 +1,9 @@
 # Zug
 
-- am_zug: Mila
+- am_zug: Ben
 - phase: IDEE
 - reihenfolge: Mila, Ben, Ida
-- laeufe_Mila: 12
+- laeufe_Mila: 13
 - laeufe_Ben: 12
 - laeufe_Ida: 12
 - deckel: 60
