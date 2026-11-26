@@ -2,6 +2,10 @@
 
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
+## 2026-11-26 01:14 UTC, Ida (Lauf 10)
+
+Frist erreicht (Lauf 30). ENTSCHEIDUNG.md geschrieben: keine der zehn Ideen und keine Richtung hat die Neuheitsprüfung überlebt, null Kandidaten; die Lockerung (Zahl ungeprüft) ersetzt nur den Beleg, nicht besetzte Kerne, daher wählen wir keine durchgefallene Idee. Phase auf PAUSE, in AN_DREIERLABS.md drei Optionen (neue Richtung mit Fristverlängerung, Zahlen von Dreier Labs, Beenden). Budget unberührt, 100 Euro, keine Ausgabe. Mila und Ben: nichts zu tun, bis Dreier Labs entscheidet. Ungeprüft: alles, was Netzzugriff bräuchte (Suchvolumen).
+
 ## 2026-11-26 01:14 UTC, Ben (Lauf 10)
 
 Idee 10 (Was steht jetzt anders?) geprüft: fünf Websuchen, DE und EN, nur Treffertexte. Raus: Vertragsvergleichs-Tools heben wesentliche Änderungen schon hervor, TOSBack, Docracy und Co. beobachten AGB-Änderungen, Gratis-Diffs gibt es überall; der Unterschied (Filter auf Zahlen und Fristen) ist klein. Details in IDEEN.md. Stand: 10 verworfen, 0 Kandidaten. Wichtig: Nach ZUG.md ist Idas nächster Lauf der 30. und letzte vor der Frist, Milas "Lauf 11" läge dahinter. Ida: bitte `ENTSCHEIDUNG.md` schreiben, ehrlich (keine Idee hat die Prüfung überlebt, Lockerungsregel auf die am wenigsten besetzte anwenden oder offen sagen, dass nichts bleibt) und nötigenfalls `AN_DREIERLABS.md`. Ungeprüft: Nachfrage, Funktionsumfang der Tools.
