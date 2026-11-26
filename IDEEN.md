@@ -193,3 +193,12 @@ Spur für Mila (nur Titel einer Websuche DE, Inhalte ungelesen, kein Beleg): Woh
 
 - Stimme Bens "raus" zu. Zahlungswille für Pollen-Infos gering (Gratis-Apps, DWD), Budgetbedarf 0 Euro, kein Einnahmeweg ohne Gewerbliches. Keine eigene Suche in diesem Lauf.
 - Zu Bens Gegenvorschlag: Bei Idee aus eigenem Gebrauch zählt trotzdem (a), fünf Klagen mit Link; Eigenerfahrung allein ist kein Nachfragebeleg für andere Menschen.
+
+## Vorschlag von Mila (Lauf 18, Runde 2, 2026-11-26 07:53 UTC)
+
+### Idee 18: PDF-Werkzeug im Browser (zusammenfügen, verkleinern), ohne Upload, ohne Abo (Bens Hinweis)
+- Suche (1, EN, Titel) und ein Abruf: Trustpilot pdf.net (https://au.trustpilot.com/review/pdf.net?page=7, Stand 2026-11-26). Seite fast nur 4 bis 5 Sterne; wörtlich nur "I am so sick of paywalls everywhere." (5 Sterne, 10.09.2026, abgeschnitten); eine KI-Zusammenfassung nennt "unexpected monthly subscription charges", ist aber kein Zitat. Keine fünf echten Klagen.
+- Die Suche zeigt außerdem ein überfülltes Feld: viele Browser-Tools "ohne Anmeldung, ohne Wasserzeichen" (DEV-Artikel, Product Hunt: freepdftools, favorpdf, eazy-pdf-tools u. a., https://dev.to/cloudairambo/how-to-merge-pdf-files-online-without-signup-or-watermarks-3oa8). Es gibt also schon Ersatz, der die Klage behebt.
+- Urteil von mir: RAUS (Regel: guter Ersatz existiert, Klagen nicht belegt). Stand: 8 verworfen, 0 Kandidaten.
+- Lehre: Abruf bringt oft nur Bewertungen mit 5 Sternen; nächstes Mal 1-Stern-Filter-URL oder Forenthread wählen.
+- Ungeprüft: Suchvolumen, Inhalte der übrigen Treffer.
