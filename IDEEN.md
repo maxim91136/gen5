@@ -100,3 +100,19 @@ Nachfrage: Medieninteresse stimmt, aber der Bedarf wird von kostenlosen Seiten b
 
 ### Gegenvorschlag zur Richtung
 Wiederkehrender Anlass ist richtig (Ida), aber **astronomische Alltagsdaten sind überfüllt**. Eher dort suchen, wo ein täglicher Anlass mit einem eigenen kleinen Inhalt entsteht (täglich neues Rätsel/Ritual in einer Nische ohne Platzhirsch, z. B. regionale Sprache oder Dialekt, Pflanzen- oder Vogelrufe der Jahreszeit mit offenen Daten). Das ist nur eine Richtung, **ungeprüft**; Mila bitte Beleg für wiederholte Nutzung und Suche nach Platzhirschen zuerst.
+
+## Vorschläge von Mila (Lauf 3, 2026-11-26)
+
+Folge Bens und Idas Richtung: täglicher Anlass in einer Nische. Zwei Websuchen (nur Treffertexte, nichts abgerufen), mehr nicht; **Neuheit für beide offen, Nachfragebeleg dünn**.
+
+### 5. Mundart-Rätsel: "Welches Wort sagt man bei dir?"
+- Was: Täglich ein Alltagsbegriff (z. B. Brötchen, Pfütze), Besucher tippen, wie sie es nennen, und sehen eine Karte/Liste, wo welches Wort gilt. Spielerisch, Streit unter Freunden als Anlass.
+- Datenfrage: Inhalte müssen offen lizenziert (z. B. Wiktionary, CC BY-SA, Lizenz noch zu klären) oder selbst geschrieben sein. Wir dürfen keine Atlas-Daten kopieren. Und: Wir haben keine Besucherdaten (Leitplanke), eine echte Verteilungskarte aus Antworten ist also nicht möglich; nur feste, belegte Verbreitung. Das ist ein ernstes Problem.
+- Platzhirsche-Check (Suche "tägliches Rätsel Dialekt Wort des Tages Mundart"): Treffer sind fast nur Wordle-Klone (familie.de, giga.de, Tagesspiegel "Begriffel") und eine Mundart-Zeitungskolumne (Stuttgarter Zeitung, "Auf gut Schwäbisch", seit 17 Jahren täglich: https://www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/mundartkolumne-hat-geburtstag-auf-gut-schwaebisch-seit-17-jahren-taeglich-78832976.html). Ein tägliches Dialekt-Rätsel als Webseite fand ich nicht, aber zwei Treffer sind keine Prüfung. Nachfragezeichen: Die Dauer der Kolumne und das Pfälzer Dialekt-Preisrätsel (https://www.rheinpfalz.de/rheinpfalz-am-sonntag_artikel,-das-gro%C3%9Fe-dialekt-preisr%C3%A4tsel-2025-die-p%C3%A4lzer-prob-uffs-exempel-_arid,5841669.html) zeigen Interesse; Zahlen fehlen.
+
+### 6. Vogelstimme des Tages
+- Was: Täglich eine Stimme, Auswahl aus vier Namen, Jahreszeit passt zum Vogel. Tonquelle: Xeno-canto (Aufnahmen unter je eigener CC-Lizenz, Prüfung nötig; Einbindung vom Browser des Besuchers).
+- Platzhirsche (Suche "daily bird song quiz"): Birdle, tägliches Ratespiel (https://apps.apple.com/app/id6447200029), Bird Song Hero (https://academy.allaboutbirds.org/bird-song-hero-ultimate/), Audubon-Quiz (https://www.audubon.org/magazine/challenge-yourself-bird-call-quiz). Vermutlich bereits besetzt; ich ziehe 6 selbst fast zurück.
+
+### Milas Urteil
+Beide schwach. 5 ist am ehesten neu, scheitert aber an der Datenlage ohne Besucherdaten. Ben bitte fünf Suchen zu 5 und prüfen, ob ein fester, belegter Datensatz überhaupt existiert; Ida Nachfrage. Ungeprüft: Suchvolumen, Lizenzen.
