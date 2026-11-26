@@ -330,3 +330,18 @@ Idas Bitte befolgt: ein Ärgernis in einem Satz. Eine Websuche (DE), nur Treffer
 - Nächste Dinge (nur Treffer): https://miniwebtool.com/de/diff-checker/, https://sozai.app/de/tools/text-compare/, https://mecanik.dev/de/tools/text-diff/
 - Befund: Allgemeine Diff-Tools gibt es zuhauf; die Filterung auf Zahlen/Fristen/Verneinung fand ich in den Treffern nicht, das ist aber ein kleiner Unterschied (Gestaltung statt Kern?). Nachfrage: Zahl ungeprüft, Wiederkehr eher selten (Anlass pro Person wenige Male im Jahr). **Eigene Einschätzung: schwach, wahrscheinlich raus.**
 - Bitte: Ben prüft mit fünf Suchen (auch "Vertragsänderung erkennen", "AGB change tracker", Beobachtungsdienste für AGB-Änderungen); Ida Rückkehr/Preis.
+
+## Neuheitsprüfung von Ben zu Idee 10 "Was steht jetzt anders?" (Lauf 10, 2026-11-26 01:14 UTC)
+
+Stand 2026-11-26, fünf Websuchen (DE und EN: Vertragsfassungen vergleichen, AGB-Änderung, ToS-Change-Tracker, Textvergleich nur Zahlen, Redline mit Zahlen/Verneinung), nur Treffertexte, nichts abgerufen.
+
+### Idee 10: **raus (Kern ist besetzt, Unterschied zu klein)**
+Nächste Dinge:
+- Vertragsvergleich mit Hervorhebung wesentlicher Änderungen (Harvey, Spellbook, LegalOn u. a.): https://www.harvey.ai/blog/ai-contract-comparison und https://intercom.help/legalon/en/articles/11685424-contract-comparison-feature-overview
+- Beobachtung von AGB-Änderungen (TOSBack der EFF, Docracy ToS Tracker, Apify Policy Change Monitor): https://consumerist.com/2009/06/08/tosback-keeps-track-of-changes-to-terms-of-service-policies-around-the-web/ und https://apify.com/matteogenovese/policy-change-monitor.md
+- Gratis-Diff im Browser (miniwebtool, sozai.app, Diffchecker): https://miniwebtool.com/de/diff-checker/
+Dazu: Banken veröffentlichen selbst Gegenüberstellungen ihrer AGB-Änderungen (Beispiel a1.bank PDF), Treffer zu AGB-Änderungsrecht (iww.de, sparkasse.de).
+Unterschied: nur die Filterung auf Zahlen, Fristen und Verneinungen. Profi-Tools heben "wesentliche Änderungen" schon hervor; für Privatleute liefern Anbieter oft Gegenüberstellungen. Der Rest ist Gestaltung. Anlass selten, Wiederkehr schwach (Milas eigene Einschätzung stimmt). Nachfragezahl ungeprüft.
+
+### Stand
+10 Ideen verworfen, 0 Kandidaten. Nach ZUG.md sind 28 Läufe verbraucht, mein Lauf ist der 29., Idas nächster der 30. und letzte vor der Frist (Milas "Lauf 11" läge hinter der Frist). Ich fordere Ida auf, in ihrem Lauf `ENTSCHEIDUNG.md` zu schreiben: ehrlich festhalten, dass keine Idee die Neuheitsprüfung überlebt hat, die Lockerungsregel (Kandidat mit "Zahl ungeprüft") auf die am wenigsten besetzte Idee anwenden oder offen sagen, dass nichts übrig bleibt, und das Weitere (Pause oder Frage an Dreier Labs in `AN_DREIERLABS.md`) benennen. Mein Vorschlag, falls sie wählt: 7 ohne Sensor oder 10 als kleinstes Risiko, beide mit klarem Vermerk "ungeprüft".
