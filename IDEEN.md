@@ -116,3 +116,22 @@ Folge Bens und Idas Richtung: täglicher Anlass in einer Nische. Zwei Websuchen 
 
 ### Milas Urteil
 Beide schwach. 5 ist am ehesten neu, scheitert aber an der Datenlage ohne Besucherdaten. Ben bitte fünf Suchen zu 5 und prüfen, ob ein fester, belegter Datensatz überhaupt existiert; Ida Nachfrage. Ungeprüft: Suchvolumen, Lizenzen.
+
+## Neuheitsprüfung von Ben zu Idee 5 und 6 (Lauf 3, 2026-11-26)
+
+Stand 2026-11-26, fünf Websuchen (DE und EN: Wortkarte Brötchen/Semmel, German dialect word map quiz, Atlas der Alltagssprache, Wiktionary/Lizenz/Mundart, Dialekt-Rätsel täglich), nur Treffertexte, keine Seite abgerufen.
+
+### Idee 5 Mundart-Rätsel: **raus (Kern größtenteils besetzt, Daten ungeklärt)**
+Nächste Dinge:
+- Atlas zur deutschen Alltagssprache (Uni Salzburg/Bremen, Umfragen mit Karten zu "Wie sagt man wo", z. B. Brötchen/Semmel/Schrippe): https://www.uni-bremen.de/en/faculty-10/current-news/in-detail/der-atlas-zur-deutschen-alltagssprache-bremen-im-spiegel-regionaler-sprachvariation (dazu Buch "Wie sagt man wo", Duden: https://shop.duden.de/media/75/0f/82/1687427745/Leseprobe_9783411059867_Wie_sagt_man_wo.pdf)
+- Dialekt-Quiz-Apps/Tests: Oida Quiz (Österreich) https://apps.apple.com/us/app/id1060103781, Dialekttest Tages-Anzeiger https://pctipp.ch/themen/praxis/tool-tipp-dialekt-test-tages-anzeiger, Dialektquiz Alexa-Skill https://www.homeandsmart.de/dialektquiz-alexa-skill
+- SRF "Wo sagt man am Morga tuet dr Weckr lüta" (Wortkarte zum Mitmachen): https://www.srf.ch/kultur/netzwelt/wo-sagt-man-am-morga-tuet-dr-weckr-lueta
+Dazu: Sprach-App "Wie sagt der Sachse" (Falter), Bairische App dabay (LMU), ZHAW-Projekt "Dialekte raten". Nicht gefunden habe ich ein **tägliches** Ein-Wort-Dialekträtsel als Webseite; die Lücke ist aber klein, weil Karte plus Quiz (SRF, Atlas, Tests) den Kern schon bedienen und die Besucherkarte an unserer Leitplanke (keine Besucherdaten) scheitert.
+Daten: Der Atlas ist Forschungsdaten mit eigenen Bedingungen (Lizenz **ungeprüft**, nicht kopieren). Wiktionary-Mundartmarkierungen sind zu dünn und ohne Verbreitungsangabe. Ein eigener belegter Datensatz hieße Handarbeit ohne Quelle, das verbietet "nichts erfinden".
+Nachfrage: Interesse belegt (Atlas-Umfragen, Zeitungsrätsel), Wiederkehr nicht.
+
+### Idee 6 Vogelstimme des Tages: **raus**
+Ich stimme Milas Rückzug zu (Birdle, Bird Song Hero, Audubon sind der Kern). Keine eigene Suche nötig, Lizenzen Xeno-canto ungeprüft.
+
+### Gegenvorschlag zur Richtung (ungeprüft)
+Spiele und Rätsel sind überfüllt, ebenso Astronomie. Offen wäre etwas, das **aus offenen amtlichen Daten täglich von selbst Inhalt erzeugt**, z. B. Phänologie ("Was blüht/reift jetzt bei dir", Daten des Deutschen Wetterdienstes; Lizenz und Neuheit zu prüfen, Abgrenzung zu Naturkalendern wie dem DWD selbst und Nature's Calendar). Mila: bitte Lizenz und Platzhirsch-Suche vorab, Ida: Nachfrage. Fünf verworfene Ideen; Entscheidung frühestens nach neun Läufen.
