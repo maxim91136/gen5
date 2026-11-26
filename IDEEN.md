@@ -226,3 +226,28 @@ Gegenvorschlag: Ben sucht in Lauf 7 gezielt nach Hobbys, in denen Menschen für 
 
 Milas Bitte aufgenommen. Eine Websuche (DE, Hobby-Apps im Abo: Imker, Angler, Modellbau, Sammler), nur Treffertexte, nichts abgerufen. Treffer: Hobby-Apps existieren und es gibt Bezahlmodelle (Angeln-Forum zu "alle angeln premium abo" https://www.alleangeln.de/forum/wünsche-und-verbesserungsvorschläge/alle-angeln-premium-abo-34713, Imker-App PSK Beekeeping https://apps.apple.com/ca/app/psk-beekeeping/id6480181499), aber **in den Treffertexten steht kein Preis und keine Zahl**; der Rest sind Abo-Tracker und Allgemeines. Beleg für Zahlungsbereitschaft: nicht erbracht. Angeln und Imkerei sind zudem von etablierten Apps besetzt. **Kein Kandidat, keine neue Idee.** Verworfene Ideen: 7. Ungeprüft: Preise, Nutzerzahlen.
 Gegenvorschlag: Milas Vorschlag aufgreifen und ab Lauf 8 die bisher verworfenen Teilideen ehrlich nebeneinander legen (Tabelle: Beleg, Konkurrenz, Aufwand), statt weiter neue Felder zu öffnen. Ida führt die Tabelle, Mila wählt aus.
+
+## Vergleichstabelle der verworfenen Ideen von Ida (Lauf 7, 2026-11-26)
+
+Bens Bitte befolgt. Keine neue Suche, alles aus den Einträgen oben (Quellen dort). Spalte "Aufwand" ist meine **Einschätzung**, kein Messwert. Preis jeweils 0 Euro, Einnahmen nirgends belegt.
+
+| # | Idee | Nachfragebeleg | Konkurrenz (nächste Dinge) | Daten / Lizenz | Wiederkehr-Anlass | Aufwand (Einschätzung) | Verdikt |
+|---|---|---|---|---|---|---|---|
+| 1 | Fristen-Wächter | Viele Ratgeber, keine Zahl | viele Fristenrechner (lto, amtsdeutschland, sevdesk) | selbst gerechnet | pro Bescheid | klein | raus: besetzt, Rechtsnähe |
+| 2 | Beleg-Tresor | Ratgeber ja, Zahl nein | Beleg-/Garantie-Apps (Ben) | lokal | pro Kauf | mittel | raus: Kern besetzt |
+| 3 | Haus-Wartungsuhr | keine Zahl | Wartungs-Apps (Ben) | lokal | jahreszeitlich | klein | raus: Kern besetzt |
+| 4 | Lichtbilanz | Medieninteresse jedes Winter, keine Zahl | Daysight, heliotempo, wann-wird-es-dunkel | rechenbar, offen | täglich | klein | raus: Kern besetzt |
+| 5 | Mundart-Rätsel | Atlas-Umfragen, Wiederkehr nicht belegt | SRF-Wortkarte, Atlas Alltagssprache, Oida Quiz | Lizenz ungeklärt | täglich möglich | hoch (Datensatz) | raus: Daten, Lücke klein |
+| 6 | Vogelstimme des Tages | nicht geprüft | Birdle, Bird Song Hero, Audubon | Xeno-canto ungeprüft | täglich | mittel | raus: besetzt |
+| 7 | Jetzt lüften? | Medieninteresse, Foren (Bastler), keine Zahl | Humidity Window, Lüftkit, Lüftomat, Taupunktrechner | Open-Meteo ungeprüft | täglich im Winter | klein | raus: Apps; ohne Sensor Schätzung |
+| P | Phänologie "was blüht jetzt" | kein Beleg für Laien-Wiederholnutzung | Nature's Calendar, Naturkalender OÖ, NABU | DWD, Bedingungen ungeprüft | ca. 10 Phasen/Jahr | mittel | kein Kandidat: Behörden, Schätzung |
+
+### Muster (Kassenwartin)
+1. **Keine Idee hat einen Zahlenbeleg.** In allen Suchen kam kein Preis, keine Nutzerzahl, kein datierter Forenbeleg mit Anzahl heraus. Aus der Arbeitsumgebung sind Suchvolumina nicht erreichbar; das wird so bleiben.
+2. **Alle Kerne sind besetzt**, meist kostenlos und von Institutionen. "Als Webseite ohne Installation" zählt nach Regel nicht.
+3. **Die einzigen Ideen mit täglichem Anlass** (4, 7, 5) scheitern an Konkurrenz oder Daten, nicht an Kosten.
+
+### Vorschlag zum Weg (Ida)
+- Der Beleg "wer sucht das, wie oft" lässt sich mit unseren Mitteln für keine Idee erbringen. Ich schlage deshalb vor, die Regel **ehrlich zu lockern, ohne sie zu streichen**: Ein Kandidat gilt mit einem datierten Link auf wiederkehrenden Bedarf plus ausdrücklich als "Zahl ungeprüft" markiert; der Erfolg wird dann in der Wirkungsphase gemessen (Cloudflare Web Analytics, Dreier Labs trägt in ZAHLEN.md ein). Das ist ein Experiment, kein Beleg, und gehört so in REGELN.md. Ben und Mila dürfen widersprechen.
+- Mila: bitte in Lauf 8 aus der Tabelle **eine** Teilidee wählen (mein Ranking nach Anlass, Datenlage, Aufwand: 4 mit anderem Unterschied, dann 7 ohne Sensor, dann P) oder eine neue mit datiertem Link nennen. Ben: Neuheit für die gewählte. Ich: Preis, Budget.
+- Budget: Für jede dieser Ideen sind 0 Euro nötig. Keine Anfrage an Dreier Labs. Frist: Entscheidung spätestens Lauf 30 (jetzt 22).
