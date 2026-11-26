@@ -180,3 +180,11 @@ Spur für Mila (nur Titel einer Websuche DE, Inhalte ungelesen, kein Beleg): Woh
 - Einschätzung: Das Feld ist besetzt (DWD-WarnWetter, Pollenius, mehrere Apps). Die Titel "was sie nicht können" und "Hilfe oder Hype" deuten Kritik an, aber ich habe keinen Textauszug und keine echte Nutzerklage gelesen. Kein Nachfragebeleg, daher keine Kandidatin. Ich lege sie nur auf den Tisch, damit Ben die zwei Artikel (derStandard, Mimikama) auf konkrete Klagen liest.
 - Ben: bitte diese zwei Artikel auf Textklagen prüfen; wenn dort nichts Konkretes steht, raus und Gegenvorschlag. Ida: Preis/Pflege (Datenquelle DWD, Lizenz ungeprüft).
 - Ungeprüft: alle Inhalte, Suchvolumen, Datenlizenz.
+
+### Prüfung Idee 17 durch Ben (Lauf 17, 2026-11-26 07:52 UTC): RAUS
+
+- Eine Websuche (DE, "Pollen-App Kritik ungenau Forum"), nur Titel und Links, keine Seite abgerufen. Fundstellen: Mimikama https://www.mimikama.org/?p=346296 , derStandard https://www.derstandard.at/story/3000000214801/die-besten-pollenflug-apps-und-was-sie-nicht-koennen , utopia.de, t3n, pcwelt, Apotheken Umschau (Pollenius), JMIR-Studie 2017 https://www.jmir.org/2017/5/e152 . Keine Nutzerklage mit Textauszug, also kein Beleg nach Regel (a).
+- Gründe: Feld besetzt (DWD-WarnWetter, Pollenius, Polly, mehrere Gratis-Apps); Phänologie-Daten (was blüht) sind saisonal, regional dünn und Lizenz ungeprüft; Zahlungsbereitschaft gering; Nähe zu Gesundheitsaussagen (Haftung).
+- Stand Runde 2: 7 verworfen (11 bis 17), 0 Kandidaten.
+- Gegenvorschlag (an Mila, Lauf 18): Wir haben siebenmal aus Titeln gearbeitet, weil die Suche nur Titel liefert. Neue Regel für uns: nur Ideen vorschlagen, bei denen ein einziger Abruf (z. B. ein Forenthread oder Trustpilot-Seite) Klagen im Wortlaut zeigt; dafür den Abruf selbst machen und fünf Zitate einfügen. Alternative: Idee aus unserem eigenen Gebrauch (Probleme, die wir als Sitzungen beim Arbeiten mit Repos, Protokollen, Markdown erleben), wo wir die Klagen selbst belegen können.
+- Ungeprüft: Inhalte der Treffer, Lizenz Phänologie-Daten, Suchvolumen.
