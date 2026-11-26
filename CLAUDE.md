@@ -8,7 +8,7 @@ Jede Sitzung startet ohne Erinnerung. Das Gedächtnis ist dieses Repo. Lies zu B
 
 Ein Produkt, das **jemand außer uns freiwillig ein zweites Mal öffnet oder bezahlt**. Gebaut wird nicht das Schönste, sondern das, wofür es einen Beleg gibt, dass Menschen es wollen. Was es ist, für wen, wie es heißt und ob es etwas kostet, entscheidet ihr. Ihr dürft auch beschließen, etwas anderes zu bauen als eine Webseite, solange es aus diesem Repo und der Auslieferung in `site/` bestehen kann.
 
-Aus gen4 wissen wir: Ohne Ziel entsteht etwas Hübsches, das niemand braucht. Deshalb gilt hier: **Jede Idee braucht einen Nachfragebeleg** (wer sucht das, wo, wie oft; Links, Zahlen, Stand). Ohne Beleg ist sie keine Kandidatin. Dazu gilt die Neuheitsprüfung aus gen4 weiter: mindestens fünf Suchanfragen, Deutsch und Englisch, die drei nächsten Dinge mit Link, ein Satz zum Unterschied.
+Aus gen4 wissen wir: Ohne Ziel entsteht etwas Hübsches, das niemand braucht. Deshalb gilt hier: **Jede Idee braucht einen Nachfragebeleg** (wer sucht das, wo, wie oft; Links, Zahlen, Stand). Ohne Beleg ist sie keine Kandidatin. Ab Runde 2 (2026-11-26) gilt statt der Neuheitsprüfung die **Schwächenprüfung**: Gesucht wird nichts Neues, sondern etwas, das es gibt und das nachweislich schlecht ist. Pflicht pro Idee: (a) mindestens fünf echte Klagen über das Bestehende mit Link und Stand (Bewertungen, Foren, Fragen wie „warum ist X so schlecht“), das ist zugleich der Nachfragebeleg; (b) mindestens fünf Suchanfragen, Deutsch und Englisch, die drei nächsten Anbieter mit Link; (c) ein benennbarer, prüfbarer Unterschied (schneller, einfacher, ehrlicher, ohne Anmeldung, ohne Werbung, verständlicher …). „Im Kern dasselbe“ ist erlaubt, wenn der Unterschied die Klagen wirklich behebt. Raus ist eine Idee, wenn es schon einen guten Ersatz gibt, der die Klagen behebt, oder wenn es keine belegbaren Klagen gibt. Die zehn Ideen aus Runde 1 stehen in `ARCHIV_IDEEN_RUNDE1.md` und bleiben gesperrt, außer jemand kann mit Klagen belegen, dass sich die Lage geändert hat.
 
 ## Die drei Rollen
 
@@ -34,7 +34,7 @@ Ihr startet zu dritt. Fehlt eine Fähigkeit (etwa Texte, Verbreitung, Gestaltung
 
 ## Die Phasen
 
-1. **IDEE.** Vorschläge mit Nachfragebeleg und Neuheitsprüfung, eingetragen in `IDEEN.md`. Frühestens nach neun Läufen (drei je Rolle) darf entschieden werden, spätestens nach dreißig. Entscheidung samt verworfener Ideen in `ENTSCHEIDUNG.md`.
+1. **IDEE.** Vorschläge mit Nachfragebeleg und Neuheitsprüfung, eingetragen in `IDEEN.md`. Frühestens nach neun Läufen (drei je Rolle) darf entschieden werden, spätestens nach dreißig. In Runde 2 gilt: Entscheidung spätestens nach 15 Läufen je Rolle seit dem Neustart (Läufe 11 bis 25 jeder Rolle), danach REGELN, BAU und SCHLIFF in den Läufen bis 40 je Rolle. Entscheidung samt verworfener Ideen in `ENTSCHEIDUNG.md`.
 2. **REGELN.** `REGELN.md`: was das Produkt genau tut, für wen, woran man „fertig“ erkennt, woran man Erfolg erkennt (siehe unten), was es ausdrücklich nicht tut, Name, Sprache. Alle drei stimmen zu.
 3. **BAU.** Kleine Schritte mit Test. Ben prüft und repariert Kleines.
 4. **SCHLIFF.** Handy (390 px) und Desktop, Texte, Fehlerfälle, Barrierefreiheit. Sagen alle drei in aufeinanderfolgenden Läufen „fertig“, schreibt der Dritte `ABSCHLUSS.md` und setzt `START`.

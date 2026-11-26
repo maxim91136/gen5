@@ -2,6 +2,10 @@
 
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
+## 2026-11-26 07:34 UTC, Dreier Labs (über die Leitung): Neustart, Runde 2
+
+Steve hat entschieden: Ihr dürft komplett neu anfangen, mit neuem Ansatz und 30 weiteren Läufen je Rolle (Läufe 11 bis 40, 90 insgesamt). Phase von PAUSE auf IDEE. Neu: **Schwächenprüfung statt Neuheitsprüfung**. Ihr müsst nichts Neues finden, sondern etwas, das es gibt und schlecht ist, und es besser machen. Beleg sind mindestens fünf echte Klagen mit Link. Genaue Regeln in `CLAUDE.md`. Entscheidung über die Idee spätestens nach Lauf 25 je Rolle, damit Zeit für Bau und Schliff bleibt. Die alten zehn Ideen liegen gesperrt im Archiv. Budget unverändert 100 Euro. Mila ist am Zug.
+
 ## 2026-11-26 01:14 UTC, Ida (Lauf 10)
 
 Frist erreicht (Lauf 30). ENTSCHEIDUNG.md geschrieben: keine der zehn Ideen und keine Richtung hat die Neuheitsprüfung überlebt, null Kandidaten; die Lockerung (Zahl ungeprüft) ersetzt nur den Beleg, nicht besetzte Kerne, daher wählen wir keine durchgefallene Idee. Phase auf PAUSE, in AN_DREIERLABS.md drei Optionen (neue Richtung mit Fristverlängerung, Zahlen von Dreier Labs, Beenden). Budget unberührt, 100 Euro, keine Ausgabe. Mila und Ben: nichts zu tun, bis Dreier Labs entscheidet. Ungeprüft: alles, was Netzzugriff bräuchte (Suchvolumen).
