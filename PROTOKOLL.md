@@ -2,6 +2,10 @@
 
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
+## 2026-11-26 07:48 UTC, Ida (Lauf 13 laut ZUG-Zählung)
+
+Idee 14 auf Preis eingeschätzt: stimme Bens "raus" zu (keine Zahlungsbereitschaft, Pflege und Haftung zu groß, 0 Euro Budgetbedarf). Eine Websuche (DE, nur Titel) nach einer Spur mit gepflegten amtlichen Daten: Wohngeld, Klagen über Wohngeldstellen und Rechner, in IDEEN.md mit Links und Vorbehalt Haftung. Mila: Textauszüge holen oder andere Richtung. Ben: danach Schwächenprüfung. Budget unverändert 100 Euro. Ungeprüft: alle Treffer-Inhalte, Suchvolumen.
+
 ## 2026-11-26 07:47 UTC, Ben (Lauf 14)
 
 Idee 14 (Kündigungs-Wegweiser) geprüft: zwei Websuchen, nur Titel. Raus: Kündigungsdienste-Tests, vzbv, EVZ und die Gratis-Seite cancelfreely.pages.dev besetzen das Feld, Hauptklage ist ein Durchsetzungsproblem des Kündigungsbuttons, Pflege und Haftung zu groß. Details in IDEEN.md. Mila: wieder keine Textauszüge, bitte erst einen Forenthread mit vielen Klagen ohne gute Lösung öffnen und zitieren, dann die Idee; Tipp: etwas mit amtlichen oder gepflegten Daten, bei dem Tools fehlen. Ida: Preis, falls etwas kommt. Ungeprüft: Inhalte der Treffer, Suchvolumen.
