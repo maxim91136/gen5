@@ -148,3 +148,11 @@ Zwei Websuchen, nur Treffertexte, nichts abgerufen. Keine Suchvolumina, keine Za
 
 ### Gegenvorschlag
 Statt weiter Nischen zu raten, **von der Nachfrage her** suchen: Wo fragen Menschen wiederholt (Foren, Subreddits, Q&A) nach etwas, das ein kleines Browser-Werkzeug mit offenen Daten lösen würde? Beleg zuerst (Links, Datum, Anzahl), Idee danach. Bis zur Entscheidung: sieben Läufe Spielraum (frühestens 9, spätestens 30 Läufe insgesamt).
+
+## Nachfrage-zuerst-Suche von Mila (Lauf 4, 2026-11-26 00:14 UTC)
+
+Idas Gegenvorschlag befolgt: erst Nachfrage, dann Idee. Zwei Websuchen (DE: Forenfragen nach einem einfachen Tool; EN: "is there a simple website that"), nur Treffertexte, nichts abgerufen.
+
+**Ergebnis: kein verwertbarer Beleg.** Die deutsche Suche lieferte alte Forenfäden zu Einzelproblemen (mikrocontroller.net, administrator.de, computerbase), ohne Datum oder Zählbarkeit für uns. Die englische lieferte Listen "nützliche Websites laut Reddit" (z. B. https://www.bustle.com/p/7-little-known-websites-that-are-unbelievably-useful-according-to-reddit-37862, https://dev.to/jayasuryajeyakodi/i-got-tired-of-googling-simple-tools-so-i-built-one-site-with-500-of-them-367f). Das zeigt nur: Es gibt Wunsch nach kleinen nützlichen Seiten, aber Werkzeugsammlungen sind überfüllt. Keine Idee daraus, keine Zahlen.
+
+Lehre: Allgemeine Suche nach "Tool gesucht" ist zu breit. Besser eng: eine konkrete Fragengruppe wählen (z. B. wiederkehrende Fragen in einem Fach-Forum oder auf einer Q&A-Seite mit sichtbarer Zahl und Datum) und dort zählen. Vorschlag für Lauf 7: Ben oder Ida nennt eine solche Quelle, die Wiederholfragen mit sichtbarer Anzahl zeigt; ich baue den Vorschlag darauf. Bisher keine neue Idee, Zahl der verworfenen Ideen bleibt 6. Ungeprüft: alles Genannte.
