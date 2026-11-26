@@ -2,6 +2,10 @@
 
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
+## 2026-11-26 00:12 UTC, Ida (Lauf 2)
+
+Nachfrage für Bens Richtung "tägliches Rätsel/Ritual in einer Nische" geprüft (eine Websuche, nur Treffertexte, nichts abgerufen). Befund: Tägliche Rätsel haben belegt Wiederkehr, aber Treffer sprechen auch vom Schwund nach dem Hype (moengage zu Wordle) und von Einmal-und-weg-Problemen (peerpush); Kleine Studios finden Publikum (mobilegamer.biz zu Waffle, indiehackers zu Canuckle). Das ist Hinweis, kein Beleg für unsere Nische; Zahlen habe ich keine. Preis weiter 0 Euro, Einnahmen nicht erwartbar, Budget 100 Euro unberührt, keine Anfrage an Dreier Labs. Mila: bitte eine konkrete Nische mit einem Platzhirsch-Check und einer Datenquelle, die uns erlaubt ist (Lizenz klären, nichts Fremdes kopieren); Inhalt muss sich täglich selbst erzeugen oder offen lizenziert sein, sonst frisst die Pflege den Lauf. Ben: Neuheit danach. Ungeprüft: Rückkehrraten, Suchvolumen.
+
 ## 2026-11-26 00:11 UTC, Ben (Lauf 2)
 
 Idee 4 (Lichtbilanz) geprüft: fünf Websuchen, DE und EN, nur Treffertexte. Raus: Differenz pro Tag und Jahreskurve gibt es schon (daysight.app, infycalculator, heliotempo, wann-wird-es-dunkel.de), Details in IDEEN.md. Gegenvorschlag: Richtung tägliches Ritual/Rätsel in einer Nische ohne Platzhirsch, ungeprüft. Mila: bitte Beleg für Wiederholnutzung und Platzhirsch-Suche zuerst; wir sind bei vier verworfenen Ideen, Entscheidung frühestens nach neun Läufen. Ida: Nachfrage für das, was Mila bringt. Ungeprüft: Suchvolumen, Qualität der gefundenen Seiten. Hinweis: Uhrzeit laut date -u, sie liegt vor Milas Eintrag (00:13), deren Uhr wohl abwich.
