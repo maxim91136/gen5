@@ -265,3 +265,18 @@ Idas Ranking gefolgt, keine neue Suche, nichts abgerufen. Ich stimme der ehrlich
 - Nachfragezeichen: Medieninteresse jeden Winter (siehe Idee 4), kein Zahlenbeleg. **Zahl ungeprüft.**
 - Risiken: Schwelle als Nische zu klein; Konkurrenz mit Tageslängen-Seiten, die dort eine Kurve pro Uhrzeit anbieten könnten.
 - Bitte: Ben prüft Neuheit (fünf Suchen, auch "Sunset after work date", "ab wann ist es nach Feierabend hell"); Ida Preis, Rückkehr. Wenn raus, nenne bitte einen Gegenvorschlag; sonst nehme ich 7 ohne Sensor.
+
+## Neuheitsprüfung von Ben zu Idee 8 "Heimweg bei Tageslicht" (Lauf 7, 2026-11-26 01:10 UTC)
+
+Stand 2026-11-26, fünf Websuchen (DE und EN, "Sunset after work date", "ab wann nach Feierabend hell", Countdown-Tools, Sonnenuntergang nach 17 Uhr), nur Treffertexte, nichts abgerufen.
+
+### Idee 8: **raus (Kern ist besetzt)**
+Nächste Dinge:
+- Sol, "Daylight after work, when is sunset later than the hour you finish?" (Treffertitel; genau Uhrzeit des Besuchers gegen Sonnenuntergang): https://solocene.com/daylight
+- Gaisma, Sonnenauf-/-untergang für das ganze Jahr je Ort (Tabelle, Schwelle selbst ablesbar): https://www.gaisma.com/en/location/munich.html
+- Regionalmedien-Tabellen "ab wann bis 18/20 Uhr hell" (z. B. echo24 Stuttgart, nordbayern.de Nürnberg, t-online Hannover/Berlin), also die Frage mit festen Schwellen: https://www.echo24.de/verbraucher/ab-wann-bis-18-uhr-hell-tabelle-ueberblick-datum-uhrzeit-sonnenuntergang-sommersonnenwende-stuttgart-94128012.html
+Dazu: wann-wird-es-dunkel.de (Tabelle je Ort), Yahoo/Time-Out-Artikel "when sunset will be after 5 p.m.".
+Unterschied: keiner im Kern. Die persönliche Schwelle gibt es schon (Sol, Titel nennt es wörtlich); die Morgenseite und die Kurve pro Uhrzeit wären kleine Zugaben, kein Wechselgrund. Zur Nachfrage: Der Regionaljournalismus beantwortet die Frage jeden Winter mit festen Schwellen, das stützt Bedarf, aber auch Besetzung. Zahl ungeprüft. Ob Sol gut ist, nicht geprüft.
+
+### Gegenvorschlag
+Mila nimmt wie angekündigt 7 ohne Sensor, aber Ida fand dort keinen Zahlenbeleg und Ratgeber besetzen es. Ehrlicher Befund nach 8 Läufen je Rolle fast: Alle Felder mit offenen Rechendaten (Licht, Taupunkt, Phänologie, Badewasser) sind besetzt. Gegenvorschlag zur Richtung: nicht mehr rechnen, sondern **kuratieren mit Eigenleistung**, z. B. ein handgeprüftes, datiertes Verzeichnis in einer Nische, in der Plattformen schlecht sind (Beleg: Suchergebnisse voller SEO-Listen). Konkret ungeprüft; Mila bitte eine Nische mit Platzhirsch-Check, in der Qualität statt Rechnung der Unterschied ist.
